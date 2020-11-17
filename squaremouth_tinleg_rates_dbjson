@@ -1,0 +1,1793 @@
+[
+    {
+        "lineid": "tnlg_eco",
+        "minage": 0,
+        "maxage": 20,
+        "mincoverage": 1,
+        "maxcoverage": 500,
+        "rate": 19,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 21,
+        "maxage": 25,
+        "mincoverage": 1,
+        "maxcoverage": 500,
+        "rate": 23,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 26,
+        "maxage": 30,
+        "mincoverage": 1,
+        "maxcoverage": 500,
+        "rate": 25,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 31,
+        "maxage": 35,
+        "mincoverage": 1,
+        "maxcoverage": 500,
+        "rate": 30,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 36,
+        "maxage": 40,
+        "mincoverage": 1,
+        "maxcoverage": 500,
+        "rate": 33,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 41,
+        "maxage": 45,
+        "mincoverage": 1,
+        "maxcoverage": 500,
+        "rate": 35,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 46,
+        "maxage": 50,
+        "mincoverage": 1,
+        "maxcoverage": 500,
+        "rate": 38,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 51,
+        "maxage": 55,
+        "mincoverage": 1,
+        "maxcoverage": 500,
+        "rate": 42,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 56,
+        "maxage": 60,
+        "mincoverage": 1,
+        "maxcoverage": 500,
+        "rate": 46,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 61,
+        "maxage": 65,
+        "mincoverage": 1,
+        "maxcoverage": 500,
+        "rate": 51,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 66,
+        "maxage": 70,
+        "mincoverage": 1,
+        "maxcoverage": 500,
+        "rate": 57,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 71,
+        "maxage": 75,
+        "mincoverage": 1,
+        "maxcoverage": 500,
+        "rate": 69,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 76,
+        "maxage": 80,
+        "mincoverage": 1,
+        "maxcoverage": 500,
+        "rate": 79,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 81,
+        "maxage": 85,
+        "mincoverage": 1,
+        "maxcoverage": 500,
+        "rate": 100,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 86,
+        "maxage": 255,
+        "mincoverage": 1,
+        "maxcoverage": 500,
+        "rate": 115,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 0,
+        "maxage": 20,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 29,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 21,
+        "maxage": 25,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 33,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 26,
+        "maxage": 30,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 35,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 31,
+        "maxage": 35,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 43,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 36,
+        "maxage": 40,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 46,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 41,
+        "maxage": 45,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 50,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 46,
+        "maxage": 50,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 54,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 51,
+        "maxage": 55,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 58,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 56,
+        "maxage": 60,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 64,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 61,
+        "maxage": 65,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 73,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 66,
+        "maxage": 70,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 80,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 71,
+        "maxage": 75,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 96,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 76,
+        "maxage": 80,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 112,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 81,
+        "maxage": 85,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 139,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 86,
+        "maxage": 255,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 156,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 0,
+        "maxage": 20,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 37,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 21,
+        "maxage": 25,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 43,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 26,
+        "maxage": 30,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 46,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 31,
+        "maxage": 35,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 54,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 36,
+        "maxage": 40,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 58,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 41,
+        "maxage": 45,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 62,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 46,
+        "maxage": 50,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 67,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 51,
+        "maxage": 55,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 73,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 56,
+        "maxage": 60,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 81,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 61,
+        "maxage": 65,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 94,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 66,
+        "maxage": 70,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 104,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 71,
+        "maxage": 75,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 124,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 76,
+        "maxage": 80,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 146,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 81,
+        "maxage": 85,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 182,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 86,
+        "maxage": 255,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 200,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 0,
+        "maxage": 20,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 46,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 21,
+        "maxage": 25,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 53,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 26,
+        "maxage": 30,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 57,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 31,
+        "maxage": 35,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 68,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 36,
+        "maxage": 40,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 72,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 41,
+        "maxage": 45,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 77,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 46,
+        "maxage": 50,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 83,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 51,
+        "maxage": 55,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 90,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 56,
+        "maxage": 60,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 100,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 61,
+        "maxage": 65,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 118,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 66,
+        "maxage": 70,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 129,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 71,
+        "maxage": 75,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 155,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 76,
+        "maxage": 80,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 180,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 81,
+        "maxage": 85,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 224,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 86,
+        "maxage": 255,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 244,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 0,
+        "maxage": 20,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 57,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 21,
+        "maxage": 25,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 65,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 26,
+        "maxage": 30,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 69,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 31,
+        "maxage": 35,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 81,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 36,
+        "maxage": 40,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 86,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 41,
+        "maxage": 45,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 92,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 46,
+        "maxage": 50,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 99,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 51,
+        "maxage": 55,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 107,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 56,
+        "maxage": 60,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 119,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 61,
+        "maxage": 65,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 140,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 66,
+        "maxage": 70,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 152,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 71,
+        "maxage": 75,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 183,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 76,
+        "maxage": 80,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 215,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 81,
+        "maxage": 85,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 267,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 86,
+        "maxage": 255,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 288,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 0,
+        "maxage": 20,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 66,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 21,
+        "maxage": 25,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 76,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 26,
+        "maxage": 30,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 81,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 31,
+        "maxage": 35,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 94,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 36,
+        "maxage": 40,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 100,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 41,
+        "maxage": 45,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 107,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 46,
+        "maxage": 50,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 115,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 51,
+        "maxage": 55,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 124,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 56,
+        "maxage": 60,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 138,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 61,
+        "maxage": 65,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 163,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 66,
+        "maxage": 70,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 176,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 71,
+        "maxage": 75,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 214,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 76,
+        "maxage": 80,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 244,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 81,
+        "maxage": 85,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 286,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 86,
+        "maxage": 255,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 310,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 0,
+        "maxage": 20,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 76,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 21,
+        "maxage": 25,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 86,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 26,
+        "maxage": 30,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 92,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 31,
+        "maxage": 35,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 105,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 36,
+        "maxage": 40,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 112,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 41,
+        "maxage": 45,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 120,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 46,
+        "maxage": 50,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 129,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 51,
+        "maxage": 55,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 139,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 56,
+        "maxage": 60,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 155,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 61,
+        "maxage": 65,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 184,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 66,
+        "maxage": 70,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 200,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 71,
+        "maxage": 75,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 242,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 76,
+        "maxage": 80,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 283,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 81,
+        "maxage": 85,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 352,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 86,
+        "maxage": 255,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 377,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 0,
+        "maxage": 20,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 85,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 21,
+        "maxage": 25,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 97,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 26,
+        "maxage": 30,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 103,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 31,
+        "maxage": 35,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 117,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 36,
+        "maxage": 40,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 125,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 41,
+        "maxage": 45,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 133,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 46,
+        "maxage": 50,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 143,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 51,
+        "maxage": 55,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 154,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 56,
+        "maxage": 60,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 172,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 61,
+        "maxage": 65,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 208,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 66,
+        "maxage": 70,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 225,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 71,
+        "maxage": 75,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 271,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 76,
+        "maxage": 80,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 327,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 81,
+        "maxage": 85,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 403,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 86,
+        "maxage": 255,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 430,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 0,
+        "maxage": 20,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 95,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 21,
+        "maxage": 25,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 107,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 26,
+        "maxage": 30,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 114,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 31,
+        "maxage": 35,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 130,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 36,
+        "maxage": 40,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 139,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 41,
+        "maxage": 45,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 148,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 46,
+        "maxage": 50,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 159,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 51,
+        "maxage": 55,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 171,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 56,
+        "maxage": 60,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 191,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 61,
+        "maxage": 65,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 232,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 66,
+        "maxage": 70,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 250,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 71,
+        "maxage": 75,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 301,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 76,
+        "maxage": 80,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 362,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 81,
+        "maxage": 85,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 445,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 86,
+        "maxage": 255,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 474,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 0,
+        "maxage": 20,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 104,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 21,
+        "maxage": 25,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 118,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 26,
+        "maxage": 30,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 126,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 31,
+        "maxage": 35,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 144,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 36,
+        "maxage": 40,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 153,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 41,
+        "maxage": 45,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 163,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 46,
+        "maxage": 50,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 175,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 51,
+        "maxage": 55,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 188,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 56,
+        "maxage": 60,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 210,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 61,
+        "maxage": 65,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 255,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 66,
+        "maxage": 70,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 275,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 71,
+        "maxage": 75,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 332,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 76,
+        "maxage": 80,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 398,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 81,
+        "maxage": 85,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 494,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 86,
+        "maxage": 255,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 525,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 0,
+        "maxage": 20,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 116,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 21,
+        "maxage": 25,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 131,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 26,
+        "maxage": 30,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 139,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 31,
+        "maxage": 35,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 161,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 36,
+        "maxage": 40,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 171,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 41,
+        "maxage": 45,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 182,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 46,
+        "maxage": 50,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 195,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 51,
+        "maxage": 55,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 209,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 56,
+        "maxage": 60,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 234,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 61,
+        "maxage": 65,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 283,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 66,
+        "maxage": 70,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 304,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 71,
+        "maxage": 75,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 370,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 76,
+        "maxage": 80,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 435,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 81,
+        "maxage": 85,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 543,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 86,
+        "maxage": 255,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 576,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 0,
+        "maxage": 20,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 128,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 21,
+        "maxage": 25,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 144,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 26,
+        "maxage": 30,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 153,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 31,
+        "maxage": 35,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 175,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 36,
+        "maxage": 40,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 185,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 41,
+        "maxage": 45,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 198,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 46,
+        "maxage": 50,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 211,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 51,
+        "maxage": 55,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 227,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 56,
+        "maxage": 60,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 252,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 61,
+        "maxage": 65,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 299,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 66,
+        "maxage": 70,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 322,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 71,
+        "maxage": 75,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 391,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 76,
+        "maxage": 80,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 459,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 81,
+        "maxage": 85,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 572,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 86,
+        "maxage": 255,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 607,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 0,
+        "maxage": 20,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 141,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 21,
+        "maxage": 25,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 159,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 26,
+        "maxage": 30,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 168,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 31,
+        "maxage": 35,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 193,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 36,
+        "maxage": 40,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 205,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 41,
+        "maxage": 45,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 218,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 46,
+        "maxage": 50,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 232,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 51,
+        "maxage": 55,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 249,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 56,
+        "maxage": 60,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 275,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 61,
+        "maxage": 65,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 325,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 66,
+        "maxage": 70,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 350,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 71,
+        "maxage": 75,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 436,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 76,
+        "maxage": 80,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 507,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 81,
+        "maxage": 85,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 629,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 86,
+        "maxage": 255,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 666,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 0,
+        "maxage": 20,
+        "mincoverage": 6501,
+        "maxcoverage": 7000,
+        "rate": 151,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 21,
+        "maxage": 25,
+        "mincoverage": 6501,
+        "maxcoverage": 7000,
+        "rate": 170,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 26,
+        "maxage": 30,
+        "mincoverage": 6501,
+        "maxcoverage": 7000,
+        "rate": 180,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "tnlg_eco",
+        "minage": 31,
+        "maxage": 35,
+        "mincoverage": 6501,
+        "maxcoverage": 7000,
+        "rate": 202,
+        "ratetype": "B"
+    }
+]
