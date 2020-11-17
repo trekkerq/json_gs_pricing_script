@@ -1,0 +1,282 @@
+[
+    {
+        "lineid": "travelex_scw",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 1,
+        "maxcoverage": 250,
+        "rate": 34
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 1,
+        "maxcoverage": 250,
+        "rate": 46
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 1,
+        "maxcoverage": 250,
+        "rate": 65
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 1,
+        "maxcoverage": 250,
+        "rate": 108
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 1,
+        "maxcoverage": 250,
+        "rate": 141
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 1,
+        "maxcoverage": 250,
+        "rate": 210
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 85,
+        "maxage": 100,
+        "mincoverage": 1,
+        "maxcoverage": 250,
+        "rate": 300
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 251,
+        "maxcoverage": 500,
+        "rate": 36
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 251,
+        "maxcoverage": 500,
+        "rate": 52
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 251,
+        "maxcoverage": 500,
+        "rate": 74
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 251,
+        "maxcoverage": 500,
+        "rate": 119
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 251,
+        "maxcoverage": 500,
+        "rate": 155
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 251,
+        "maxcoverage": 500,
+        "rate": 230
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 85,
+        "maxage": 100,
+        "mincoverage": 251,
+        "maxcoverage": 500,
+        "rate": 326
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 44
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 66
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 92
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 139
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 177
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 259
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 85,
+        "maxage": 100,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 360
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 61
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 91
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 126
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 182
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 229
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 328
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 85,
+        "maxage": 100,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 452
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 81
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 121
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 166
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 231
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 287
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 405
+    },
+    {
+        "lineid": "travelex_scw",
+        "minage": 85,
+        "maxage": 100,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 553
+    }
+]
