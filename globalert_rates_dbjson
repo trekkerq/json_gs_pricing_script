@@ -1,0 +1,1898 @@
+[
+    {
+        "lineid": "gbal_ess",
+        "minage": 0,
+        "maxage": 20,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 13
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 21,
+        "maxage": 25,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 15
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 26,
+        "maxage": 30,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 16
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 31,
+        "maxage": 35,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 17
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 36,
+        "maxage": 40,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 19
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 41,
+        "maxage": 45,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 21
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 46,
+        "maxage": 50,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 23
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 51,
+        "maxage": 55,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 26
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 56,
+        "maxage": 60,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 29
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 61,
+        "maxage": 65,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 33
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 66,
+        "maxage": 70,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 38
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 71,
+        "maxage": 75,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 45
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 76,
+        "maxage": 80,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 52
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 81,
+        "maxage": 85,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 62
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 0,
+        "maxage": 20,
+        "mincoverage": 1,
+        "maxcoverage": 500,
+        "rate": 19
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 21,
+        "maxage": 25,
+        "mincoverage": 1,
+        "maxcoverage": 500,
+        "rate": 22
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 26,
+        "maxage": 30,
+        "mincoverage": 1,
+        "maxcoverage": 500,
+        "rate": 23
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 31,
+        "maxage": 35,
+        "mincoverage": 1,
+        "maxcoverage": 500,
+        "rate": 29
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 36,
+        "maxage": 40,
+        "mincoverage": 1,
+        "maxcoverage": 500,
+        "rate": 31
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 41,
+        "maxage": 45,
+        "mincoverage": 1,
+        "maxcoverage": 500,
+        "rate": 33
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 46,
+        "maxage": 50,
+        "mincoverage": 1,
+        "maxcoverage": 500,
+        "rate": 36
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 51,
+        "maxage": 55,
+        "mincoverage": 1,
+        "maxcoverage": 500,
+        "rate": 40
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 56,
+        "maxage": 60,
+        "mincoverage": 1,
+        "maxcoverage": 500,
+        "rate": 44
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 61,
+        "maxage": 65,
+        "mincoverage": 1,
+        "maxcoverage": 500,
+        "rate": 49
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 66,
+        "maxage": 70,
+        "mincoverage": 1,
+        "maxcoverage": 500,
+        "rate": 56
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 71,
+        "maxage": 75,
+        "mincoverage": 1,
+        "maxcoverage": 500,
+        "rate": 67
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 76,
+        "maxage": 80,
+        "mincoverage": 1,
+        "maxcoverage": 500,
+        "rate": 77
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 81,
+        "maxage": 85,
+        "mincoverage": 1,
+        "maxcoverage": 500,
+        "rate": 98
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 0,
+        "maxage": 20,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 28
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 21,
+        "maxage": 25,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 32
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 26,
+        "maxage": 30,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 34
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 31,
+        "maxage": 35,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 41
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 36,
+        "maxage": 40,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 44
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 41,
+        "maxage": 45,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 47
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 46,
+        "maxage": 50,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 51
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 51,
+        "maxage": 55,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 56
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 56,
+        "maxage": 60,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 62
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 61,
+        "maxage": 65,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 70
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 66,
+        "maxage": 70,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 78
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 71,
+        "maxage": 75,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 94
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 76,
+        "maxage": 80,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 109
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 81,
+        "maxage": 85,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 136
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 0,
+        "maxage": 20,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 36
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 21,
+        "maxage": 25,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 41
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 26,
+        "maxage": 30,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 43
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 31,
+        "maxage": 35,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 52
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 36,
+        "maxage": 40,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 55
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 41,
+        "maxage": 45,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 59
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 46,
+        "maxage": 50,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 64
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 51,
+        "maxage": 55,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 70
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 56,
+        "maxage": 60,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 78
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 61,
+        "maxage": 65,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 91
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 66,
+        "maxage": 70,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 100
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 71,
+        "maxage": 75,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 121
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 76,
+        "maxage": 80,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 142
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 81,
+        "maxage": 85,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 176
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 0,
+        "maxage": 20,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 45
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 21,
+        "maxage": 25,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 51
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 26,
+        "maxage": 30,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 54
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 31,
+        "maxage": 35,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 65
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 36,
+        "maxage": 40,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 69
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 41,
+        "maxage": 45,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 74
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 46,
+        "maxage": 50,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 80
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 51,
+        "maxage": 55,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 87
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 56,
+        "maxage": 60,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 97
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 61,
+        "maxage": 65,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 114
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 66,
+        "maxage": 70,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 125
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 71,
+        "maxage": 75,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 150
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 76,
+        "maxage": 80,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 175
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 81,
+        "maxage": 85,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 218
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 0,
+        "maxage": 20,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 56
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 21,
+        "maxage": 25,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 62
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 26,
+        "maxage": 30,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 66
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 31,
+        "maxage": 35,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 77
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 36,
+        "maxage": 40,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 82
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 41,
+        "maxage": 45,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 88
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 46,
+        "maxage": 50,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 95
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 51,
+        "maxage": 55,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 103
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 56,
+        "maxage": 60,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 115
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 61,
+        "maxage": 65,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 135
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 66,
+        "maxage": 70,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 147
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 71,
+        "maxage": 75,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 178
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 76,
+        "maxage": 80,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 209
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 81,
+        "maxage": 85,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 259
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 0,
+        "maxage": 20,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 65
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 21,
+        "maxage": 25,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 73
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 26,
+        "maxage": 30,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 77
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 31,
+        "maxage": 35,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 90
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 36,
+        "maxage": 40,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 96
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 41,
+        "maxage": 45,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 103
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 46,
+        "maxage": 50,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 111
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 51,
+        "maxage": 55,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 120
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 56,
+        "maxage": 60,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 133
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 61,
+        "maxage": 65,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 157
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 66,
+        "maxage": 70,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 171
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 71,
+        "maxage": 75,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 207
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 76,
+        "maxage": 80,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 237
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 81,
+        "maxage": 85,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 278
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 0,
+        "maxage": 20,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 74
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 21,
+        "maxage": 25,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 83
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 26,
+        "maxage": 30,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 88
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 31,
+        "maxage": 35,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 101
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 36,
+        "maxage": 40,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 108
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 41,
+        "maxage": 45,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 115
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 46,
+        "maxage": 50,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 124
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 51,
+        "maxage": 55,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 134
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 56,
+        "maxage": 60,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 150
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 61,
+        "maxage": 65,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 178
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 66,
+        "maxage": 70,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 193
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 71,
+        "maxage": 75,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 235
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 76,
+        "maxage": 80,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 274
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 81,
+        "maxage": 85,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 341
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 0,
+        "maxage": 20,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 83
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 21,
+        "maxage": 25,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 93
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 26,
+        "maxage": 30,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 99
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 31,
+        "maxage": 35,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 112
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 36,
+        "maxage": 40,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 120
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 41,
+        "maxage": 45,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 128
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 46,
+        "maxage": 50,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 138
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 51,
+        "maxage": 55,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 149
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 56,
+        "maxage": 60,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 167
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 61,
+        "maxage": 65,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 201
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 66,
+        "maxage": 70,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 218
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 71,
+        "maxage": 75,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 262
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 76,
+        "maxage": 80,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 317
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 81,
+        "maxage": 85,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 390
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 0,
+        "maxage": 20,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 92
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 21,
+        "maxage": 25,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 103
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 26,
+        "maxage": 30,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 110
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 31,
+        "maxage": 35,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 125
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 36,
+        "maxage": 40,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 133
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 41,
+        "maxage": 45,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 143
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 46,
+        "maxage": 50,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 153
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 51,
+        "maxage": 55,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 165
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 56,
+        "maxage": 60,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 185
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 61,
+        "maxage": 65,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 224
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 66,
+        "maxage": 70,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 242
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 71,
+        "maxage": 75,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 292
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 76,
+        "maxage": 80,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 351
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 81,
+        "maxage": 85,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 431
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 0,
+        "maxage": 20,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 102
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 21,
+        "maxage": 25,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 114
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 26,
+        "maxage": 30,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 121
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 31,
+        "maxage": 35,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 138
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 36,
+        "maxage": 40,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 147
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 41,
+        "maxage": 45,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 157
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 46,
+        "maxage": 50,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 169
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 51,
+        "maxage": 55,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 182
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 56,
+        "maxage": 60,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 203
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 61,
+        "maxage": 65,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 246
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 66,
+        "maxage": 70,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 266
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 71,
+        "maxage": 75,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 321
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 76,
+        "maxage": 80,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 386
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 81,
+        "maxage": 85,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 478
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 0,
+        "maxage": 20,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 113
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 21,
+        "maxage": 25,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 127
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 26,
+        "maxage": 30,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 134
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 31,
+        "maxage": 35,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 155
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 36,
+        "maxage": 40,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 164
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 41,
+        "maxage": 45,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 175
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 46,
+        "maxage": 50,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 188
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 51,
+        "maxage": 55,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 202
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 56,
+        "maxage": 60,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 226
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 61,
+        "maxage": 65,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 274
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 66,
+        "maxage": 70,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 295
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 71,
+        "maxage": 75,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 358
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 76,
+        "maxage": 80,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 422
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 81,
+        "maxage": 85,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 526
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 0,
+        "maxage": 20,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 124
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 21,
+        "maxage": 25,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 139
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 26,
+        "maxage": 30,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 147
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 31,
+        "maxage": 35,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 168
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 36,
+        "maxage": 40,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 179
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 41,
+        "maxage": 45,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 190
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 46,
+        "maxage": 50,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 204
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 51,
+        "maxage": 55,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 219
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 56,
+        "maxage": 60,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 243
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 61,
+        "maxage": 65,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 289
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 66,
+        "maxage": 70,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 312
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 71,
+        "maxage": 75,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 379
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 76,
+        "maxage": 80,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 445
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 81,
+        "maxage": 85,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 554
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 0,
+        "maxage": 20,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 137
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 21,
+        "maxage": 25,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 153
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 26,
+        "maxage": 30,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 162
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 31,
+        "maxage": 35,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 186
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 36,
+        "maxage": 40,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 197
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 41,
+        "maxage": 45,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 210
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 46,
+        "maxage": 50,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 224
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 51,
+        "maxage": 55,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 241
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 56,
+        "maxage": 60,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 266
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 61,
+        "maxage": 65,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 315
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 66,
+        "maxage": 70,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 339
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 71,
+        "maxage": 75,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 422
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 76,
+        "maxage": 80,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 491
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 81,
+        "maxage": 85,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 609
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 0,
+        "maxage": 20,
+        "mincoverage": 6501,
+        "maxcoverage": 7000,
+        "rate": 147
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 21,
+        "maxage": 25,
+        "mincoverage": 6501,
+        "maxcoverage": 7000,
+        "rate": 164
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 26,
+        "maxage": 30,
+        "mincoverage": 6501,
+        "maxcoverage": 7000,
+        "rate": 173
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 31,
+        "maxage": 35,
+        "mincoverage": 6501,
+        "maxcoverage": 7000,
+        "rate": 195
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 36,
+        "maxage": 40,
+        "mincoverage": 6501,
+        "maxcoverage": 7000,
+        "rate": 207
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 41,
+        "maxage": 45,
+        "mincoverage": 6501,
+        "maxcoverage": 7000,
+        "rate": 220
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 46,
+        "maxage": 50,
+        "mincoverage": 6501,
+        "maxcoverage": 7000,
+        "rate": 236
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 51,
+        "maxage": 55,
+        "mincoverage": 6501,
+        "maxcoverage": 7000,
+        "rate": 253
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 56,
+        "maxage": 60,
+        "mincoverage": 6501,
+        "maxcoverage": 7000,
+        "rate": 280
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 61,
+        "maxage": 65,
+        "mincoverage": 6501,
+        "maxcoverage": 7000,
+        "rate": 332
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 66,
+        "maxage": 70,
+        "mincoverage": 6501,
+        "maxcoverage": 7000,
+        "rate": 358
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 71,
+        "maxage": 75,
+        "mincoverage": 6501,
+        "maxcoverage": 7000,
+        "rate": 443
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 76,
+        "maxage": 80,
+        "mincoverage": 6501,
+        "maxcoverage": 7000,
+        "rate": 513
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 81,
+        "maxage": 85,
+        "mincoverage": 6501,
+        "maxcoverage": 7000,
+        "rate": 637
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 0,
+        "maxage": 20,
+        "mincoverage": 7001,
+        "maxcoverage": 8000,
+        "rate": 168
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 21,
+        "maxage": 25,
+        "mincoverage": 7001,
+        "maxcoverage": 8000,
+        "rate": 187
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 26,
+        "maxage": 30,
+        "mincoverage": 7001,
+        "maxcoverage": 8000,
+        "rate": 198
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 31,
+        "maxage": 35,
+        "mincoverage": 7001,
+        "maxcoverage": 8000,
+        "rate": 231
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 36,
+        "maxage": 40,
+        "mincoverage": 7001,
+        "maxcoverage": 8000,
+        "rate": 244
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 41,
+        "maxage": 45,
+        "mincoverage": 7001,
+        "maxcoverage": 8000,
+        "rate": 259
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 46,
+        "maxage": 50,
+        "mincoverage": 7001,
+        "maxcoverage": 8000,
+        "rate": 277
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 51,
+        "maxage": 55,
+        "mincoverage": 7001,
+        "maxcoverage": 8000,
+        "rate": 296
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 56,
+        "maxage": 60,
+        "mincoverage": 7001,
+        "maxcoverage": 8000,
+        "rate": 330
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 61,
+        "maxage": 65,
+        "mincoverage": 7001,
+        "maxcoverage": 8000,
+        "rate": 403
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 66,
+        "maxage": 70,
+        "mincoverage": 7001,
+        "maxcoverage": 8000,
+        "rate": 431
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 71,
+        "maxage": 75,
+        "mincoverage": 7001,
+        "maxcoverage": 8000,
+        "rate": 516
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 76,
+        "maxage": 80,
+        "mincoverage": 7001,
+        "maxcoverage": 8000,
+        "rate": 631
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 81,
+        "maxage": 85,
+        "mincoverage": 7001,
+        "maxcoverage": 8000,
+        "rate": 761
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 0,
+        "maxage": 20,
+        "mincoverage": 8001,
+        "maxcoverage": 9000,
+        "rate": 187
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 21,
+        "maxage": 25,
+        "mincoverage": 8001,
+        "maxcoverage": 9000,
+        "rate": 208
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 26,
+        "maxage": 30,
+        "mincoverage": 8001,
+        "maxcoverage": 9000,
+        "rate": 220
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 31,
+        "maxage": 35,
+        "mincoverage": 8001,
+        "maxcoverage": 9000,
+        "rate": 252
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 36,
+        "maxage": 40,
+        "mincoverage": 8001,
+        "maxcoverage": 9000,
+        "rate": 267
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 41,
+        "maxage": 45,
+        "mincoverage": 8001,
+        "maxcoverage": 9000,
+        "rate": 284
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 46,
+        "maxage": 50,
+        "mincoverage": 8001,
+        "maxcoverage": 9000,
+        "rate": 303
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 51,
+        "maxage": 55,
+        "mincoverage": 8001,
+        "maxcoverage": 9000,
+        "rate": 325
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 56,
+        "maxage": 60,
+        "mincoverage": 8001,
+        "maxcoverage": 9000,
+        "rate": 364
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 61,
+        "maxage": 65,
+        "mincoverage": 8001,
+        "maxcoverage": 9000,
+        "rate": 448
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 66,
+        "maxage": 70,
+        "mincoverage": 8001,
+        "maxcoverage": 9000,
+        "rate": 479
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 71,
+        "maxage": 75,
+        "mincoverage": 8001,
+        "maxcoverage": 9000,
+        "rate": 579
+    },
+    {
+        "lineid": "gbal_ess",
+        "minage": 76,
+        "maxage": 80,
+        "mincoverage": 8001,
+        "maxcoverage": 9000,
+        "rate": 708
+    }
+]
