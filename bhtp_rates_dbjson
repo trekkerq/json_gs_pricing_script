@@ -1,0 +1,7130 @@
+[
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 13.22,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 17.97,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 27.79,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 54.47,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 66.38,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 115.95,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 150.26,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 1,
+        "maxcoverage": 250,
+        "rate": 22.91,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 1,
+        "maxcoverage": 250,
+        "rate": 31.59,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 1,
+        "maxcoverage": 250,
+        "rate": 44.26,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 1,
+        "maxcoverage": 250,
+        "rate": 71.56,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 1,
+        "maxcoverage": 250,
+        "rate": 90.01,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 1,
+        "maxcoverage": 250,
+        "rate": 136.42,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 1,
+        "maxcoverage": 250,
+        "rate": 185.76,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 251,
+        "maxcoverage": 500,
+        "rate": 25.94,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 251,
+        "maxcoverage": 500,
+        "rate": 37.93,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 251,
+        "maxcoverage": 500,
+        "rate": 53.92,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 251,
+        "maxcoverage": 500,
+        "rate": 83.89,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 251,
+        "maxcoverage": 500,
+        "rate": 105.02,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 251,
+        "maxcoverage": 500,
+        "rate": 157.6,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 251,
+        "maxcoverage": 500,
+        "rate": 214.51,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 33.11,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 49.85,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 70.21,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 103.32,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 127.86,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 188.06,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "rate": 253.06,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 47.4,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 71.69,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 99.28,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 139.68,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 172.2,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 246.33,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "rate": 331.23,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 64.35,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 97.12,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 132.78,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 180.74,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 221.65,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 311.1,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "rate": 416.15,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 83.11,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 126.02,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 171.44,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 229.16,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 281.01,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 388.7,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "rate": 521.18,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 94.86,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 143.7,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 194.96,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 258.53,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 316.54,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 435.79,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "rate": 582.89,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 109.36,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 166.55,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 225.51,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 296.16,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 362.35,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 496.05,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "rate": 662.84,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 122.65,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 186.47,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 252.35,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 329.92,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 404.1,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 550.05,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "rate": 736.4,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 127.21,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 192.83,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 260.44,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 339.8,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 415.83,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 565.45,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "rate": 755.81,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 169.13,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 260.09,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 352.68,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 457.3,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 563.26,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 756.52,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "rate": 1023.14,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 190.83,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 294.44,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 399.43,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 516.44,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 636.97,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 852.22,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "rate": 1155.51,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 213.65,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 330.24,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 447.9,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 577.35,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 712.5,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 950.24,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "rate": 1290.02,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 256.59,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 398.85,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 541.66,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 696.05,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 860.9,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 1142.37,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 6001,
+        "maxcoverage": 6500,
+        "rate": 1557.41,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 6501,
+        "maxcoverage": 7000,
+        "rate": 287.39,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 6501,
+        "maxcoverage": 7000,
+        "rate": 444.1,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 6501,
+        "maxcoverage": 7000,
+        "rate": 600.47,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 6501,
+        "maxcoverage": 7000,
+        "rate": 765.1,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 6501,
+        "maxcoverage": 7000,
+        "rate": 941.93,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 6501,
+        "maxcoverage": 7000,
+        "rate": 1248.05,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 6501,
+        "maxcoverage": 7000,
+        "rate": 1688.07,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 7001,
+        "maxcoverage": 8000,
+        "rate": 304.24,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 7001,
+        "maxcoverage": 8000,
+        "rate": 470.34,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 7001,
+        "maxcoverage": 8000,
+        "rate": 635.79,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 7001,
+        "maxcoverage": 8000,
+        "rate": 809.1,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 7001,
+        "maxcoverage": 8000,
+        "rate": 996.14,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 7001,
+        "maxcoverage": 8000,
+        "rate": 1318.37,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 7001,
+        "maxcoverage": 8000,
+        "rate": 1783.66,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 8001,
+        "maxcoverage": 9000,
+        "rate": 333.29,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 8001,
+        "maxcoverage": 9000,
+        "rate": 516.17,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 8001,
+        "maxcoverage": 9000,
+        "rate": 697.97,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 8001,
+        "maxcoverage": 9000,
+        "rate": 887.16,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 8001,
+        "maxcoverage": 9000,
+        "rate": 1093.03,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 8001,
+        "maxcoverage": 9000,
+        "rate": 1443.91,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 8001,
+        "maxcoverage": 9000,
+        "rate": 1956.32,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 9001,
+        "maxcoverage": 10000,
+        "rate": 354.91,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 9001,
+        "maxcoverage": 10000,
+        "rate": 549.88,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 9001,
+        "maxcoverage": 10000,
+        "rate": 743.42,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 9001,
+        "maxcoverage": 10000,
+        "rate": 943.92,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 9001,
+        "maxcoverage": 10000,
+        "rate": 1163.1,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 9001,
+        "maxcoverage": 10000,
+        "rate": 1534.66,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 9001,
+        "maxcoverage": 10000,
+        "rate": 2080.17,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 10001,
+        "maxcoverage": 11000,
+        "rate": 376.45,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 10001,
+        "maxcoverage": 11000,
+        "rate": 583.51,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 10001,
+        "maxcoverage": 11000,
+        "rate": 788.79,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 10001,
+        "maxcoverage": 11000,
+        "rate": 1000.6,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 10001,
+        "maxcoverage": 11000,
+        "rate": 1233.08,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 10001,
+        "maxcoverage": 11000,
+        "rate": 1625.66,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 10001,
+        "maxcoverage": 11000,
+        "rate": 2203.93,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 11001,
+        "maxcoverage": 12000,
+        "rate": 398.07,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 11001,
+        "maxcoverage": 12000,
+        "rate": 617.21,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 11001,
+        "maxcoverage": 12000,
+        "rate": 834.24,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 11001,
+        "maxcoverage": 12000,
+        "rate": 1057.35,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 11001,
+        "maxcoverage": 12000,
+        "rate": 1303.14,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 11001,
+        "maxcoverage": 12000,
+        "rate": 1716.58,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 11001,
+        "maxcoverage": 12000,
+        "rate": 2327.77,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 12001,
+        "maxcoverage": 13000,
+        "rate": 419.68,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 12001,
+        "maxcoverage": 13000,
+        "rate": 650.92,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 12001,
+        "maxcoverage": 13000,
+        "rate": 879.69,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 12001,
+        "maxcoverage": 13000,
+        "rate": 114.1,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 12001,
+        "maxcoverage": 13000,
+        "rate": 1373.2,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 12001,
+        "maxcoverage": 13000,
+        "rate": 1807.49,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 12001,
+        "maxcoverage": 13000,
+        "rate": 2451.62,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 13001,
+        "maxcoverage": 14000,
+        "rate": 441.3,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 13001,
+        "maxcoverage": 14000,
+        "rate": 684.62,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 13001,
+        "maxcoverage": 14000,
+        "rate": 925.13,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 13001,
+        "maxcoverage": 14000,
+        "rate": 1170.86,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 13001,
+        "maxcoverage": 14000,
+        "rate": 1443.26,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 13001,
+        "maxcoverage": 14000,
+        "rate": 1898.41,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 13001,
+        "maxcoverage": 14000,
+        "rate": 2575.46,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 14001,
+        "maxcoverage": 15000,
+        "rate": 462.91,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 14001,
+        "maxcoverage": 15000,
+        "rate": 718.32,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 14001,
+        "maxcoverage": 15000,
+        "rate": 970.57,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 14001,
+        "maxcoverage": 15000,
+        "rate": 1227.61,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 14001,
+        "maxcoverage": 15000,
+        "rate": 1513.32,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 14001,
+        "maxcoverage": 15000,
+        "rate": 1989.32,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 14001,
+        "maxcoverage": 15000,
+        "rate": 2699.3,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 15001,
+        "maxcoverage": 16000,
+        "rate": 484.52,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 15001,
+        "maxcoverage": 16000,
+        "rate": 752.02,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 15001,
+        "maxcoverage": 16000,
+        "rate": 1016.02,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 15001,
+        "maxcoverage": 16000,
+        "rate": 1284.36,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 15001,
+        "maxcoverage": 16000,
+        "rate": 1583.38,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 15001,
+        "maxcoverage": 16000,
+        "rate": 2080.24,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 15001,
+        "maxcoverage": 16000,
+        "rate": 2823.14,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 16001,
+        "maxcoverage": 17000,
+        "rate": 506.14,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 16001,
+        "maxcoverage": 17000,
+        "rate": 785.72,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 16001,
+        "maxcoverage": 17000,
+        "rate": 1061.46,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 16001,
+        "maxcoverage": 17000,
+        "rate": 1341.11,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 16001,
+        "maxcoverage": 17000,
+        "rate": 1653.43,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 16001,
+        "maxcoverage": 17000,
+        "rate": 2171.15,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 16001,
+        "maxcoverage": 17000,
+        "rate": 2946.98,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 17001,
+        "maxcoverage": 18000,
+        "rate": 527.75,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 17001,
+        "maxcoverage": 18000,
+        "rate": 819.42,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 17001,
+        "maxcoverage": 18000,
+        "rate": 1106.91,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 17001,
+        "maxcoverage": 18000,
+        "rate": 1397.86,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 17001,
+        "maxcoverage": 18000,
+        "rate": 1723.49,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 17001,
+        "maxcoverage": 18000,
+        "rate": 2262.06,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 17001,
+        "maxcoverage": 18000,
+        "rate": 3070.82,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 18001,
+        "maxcoverage": 19000,
+        "rate": 549.36,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 18001,
+        "maxcoverage": 19000,
+        "rate": 853.12,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 18001,
+        "maxcoverage": 19000,
+        "rate": 1152.35,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 18001,
+        "maxcoverage": 19000,
+        "rate": 1454.61,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 18001,
+        "maxcoverage": 19000,
+        "rate": 1793.55,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 18001,
+        "maxcoverage": 19000,
+        "rate": 2352.98,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 18001,
+        "maxcoverage": 19000,
+        "rate": 3194.66,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 19001,
+        "maxcoverage": 20000,
+        "rate": 570.97,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 19001,
+        "maxcoverage": 20000,
+        "rate": 886.82,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 19001,
+        "maxcoverage": 20000,
+        "rate": 1197.79,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 19001,
+        "maxcoverage": 20000,
+        "rate": 1511.36,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 19001,
+        "maxcoverage": 20000,
+        "rate": 1863.6,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 19001,
+        "maxcoverage": 20000,
+        "rate": 2443.89,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 19001,
+        "maxcoverage": 20000,
+        "rate": 3318.5,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 20001,
+        "maxcoverage": 21000,
+        "rate": 592.58,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 20001,
+        "maxcoverage": 21000,
+        "rate": 920.52,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 20001,
+        "maxcoverage": 21000,
+        "rate": 1243.24,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 20001,
+        "maxcoverage": 21000,
+        "rate": 1568.11,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 20001,
+        "maxcoverage": 21000,
+        "rate": 1933.66,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 20001,
+        "maxcoverage": 21000,
+        "rate": 2534.8,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 20001,
+        "maxcoverage": 21000,
+        "rate": 3442.34,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 21001,
+        "maxcoverage": 22000,
+        "rate": 614.19,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 21001,
+        "maxcoverage": 22000,
+        "rate": 954.22,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 21001,
+        "maxcoverage": 22000,
+        "rate": 1288.68,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 21001,
+        "maxcoverage": 22000,
+        "rate": 1624.86,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 21001,
+        "maxcoverage": 22000,
+        "rate": 2003.72,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 21001,
+        "maxcoverage": 22000,
+        "rate": 2625.72,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 21001,
+        "maxcoverage": 22000,
+        "rate": 3566.18,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 22001,
+        "maxcoverage": 23000,
+        "rate": 635.81,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 22001,
+        "maxcoverage": 23000,
+        "rate": 987.92,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 22001,
+        "maxcoverage": 23000,
+        "rate": 1334.12,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 22001,
+        "maxcoverage": 23000,
+        "rate": 1681.61,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 22001,
+        "maxcoverage": 23000,
+        "rate": 2073.77,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 22001,
+        "maxcoverage": 23000,
+        "rate": 2716.63,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 22001,
+        "maxcoverage": 23000,
+        "rate": 3690.02,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 23001,
+        "maxcoverage": 24000,
+        "rate": 657.42,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 23001,
+        "maxcoverage": 24000,
+        "rate": 1021.62,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 23001,
+        "maxcoverage": 24000,
+        "rate": 1379.56,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 23001,
+        "maxcoverage": 24000,
+        "rate": 1738.36,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 23001,
+        "maxcoverage": 24000,
+        "rate": 2143.83,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 23001,
+        "maxcoverage": 24000,
+        "rate": 2807.54,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 23001,
+        "maxcoverage": 24000,
+        "rate": 3813.86,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 24001,
+        "maxcoverage": 25000,
+        "rate": 679.03,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 24001,
+        "maxcoverage": 25000,
+        "rate": 1055.32,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 24001,
+        "maxcoverage": 25000,
+        "rate": 1425.01,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 24001,
+        "maxcoverage": 25000,
+        "rate": 1795.11,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 24001,
+        "maxcoverage": 25000,
+        "rate": 2213.89,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 24001,
+        "maxcoverage": 25000,
+        "rate": 2898.46,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 24001,
+        "maxcoverage": 25000,
+        "rate": 3937.7,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 25001,
+        "maxcoverage": 26000,
+        "rate": 700.64,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 25001,
+        "maxcoverage": 26000,
+        "rate": 1089.01,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 25001,
+        "maxcoverage": 26000,
+        "rate": 1470.45,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 25001,
+        "maxcoverage": 26000,
+        "rate": 1851.86,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 25001,
+        "maxcoverage": 26000,
+        "rate": 2283.95,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 25001,
+        "maxcoverage": 26000,
+        "rate": 2989.37,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 25001,
+        "maxcoverage": 26000,
+        "rate": 4061.54,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 26001,
+        "maxcoverage": 27000,
+        "rate": 722.25,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 26001,
+        "maxcoverage": 27000,
+        "rate": 1122.71,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 26001,
+        "maxcoverage": 27000,
+        "rate": 1515.89,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 26001,
+        "maxcoverage": 27000,
+        "rate": 1908.61,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 26001,
+        "maxcoverage": 27000,
+        "rate": 2354,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 26001,
+        "maxcoverage": 27000,
+        "rate": 3080.28,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 26001,
+        "maxcoverage": 27000,
+        "rate": 4185.38,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 27001,
+        "maxcoverage": 28000,
+        "rate": 743.86,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 27001,
+        "maxcoverage": 28000,
+        "rate": 1156.41,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 27001,
+        "maxcoverage": 28000,
+        "rate": 1561.34,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 27001,
+        "maxcoverage": 28000,
+        "rate": 1965.35,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 27001,
+        "maxcoverage": 28000,
+        "rate": 2424.06,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 27001,
+        "maxcoverage": 28000,
+        "rate": 3171.2,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 27001,
+        "maxcoverage": 28000,
+        "rate": 4309.22,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 28001,
+        "maxcoverage": 29000,
+        "rate": 765.47,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 28001,
+        "maxcoverage": 29000,
+        "rate": 1190.11,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 28001,
+        "maxcoverage": 29000,
+        "rate": 1606.78,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 28001,
+        "maxcoverage": 29000,
+        "rate": 2022.1,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 28001,
+        "maxcoverage": 29000,
+        "rate": 2494.12,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 28001,
+        "maxcoverage": 29000,
+        "rate": 3262.11,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 28001,
+        "maxcoverage": 29000,
+        "rate": 4433.06,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 29001,
+        "maxcoverage": 30000,
+        "rate": 787.09,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 29001,
+        "maxcoverage": 30000,
+        "rate": 1223.81,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 29001,
+        "maxcoverage": 30000,
+        "rate": 1652.22,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 29001,
+        "maxcoverage": 30000,
+        "rate": 2078.85,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 29001,
+        "maxcoverage": 30000,
+        "rate": 2564.17,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 29001,
+        "maxcoverage": 30000,
+        "rate": 3353.02,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 29001,
+        "maxcoverage": 30000,
+        "rate": 4556.9,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 30001,
+        "maxcoverage": 31000,
+        "rate": 808.7,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 30001,
+        "maxcoverage": 31000,
+        "rate": 1257.51,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 30001,
+        "maxcoverage": 31000,
+        "rate": 1697.66,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 30001,
+        "maxcoverage": 31000,
+        "rate": 2135.6,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 30001,
+        "maxcoverage": 31000,
+        "rate": 2634.23,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 30001,
+        "maxcoverage": 31000,
+        "rate": 3443.93,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 30001,
+        "maxcoverage": 31000,
+        "rate": 4680.74,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 31001,
+        "maxcoverage": 32000,
+        "rate": 830.31,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 31001,
+        "maxcoverage": 32000,
+        "rate": 1291.21,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 31001,
+        "maxcoverage": 32000,
+        "rate": 1743.11,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 31001,
+        "maxcoverage": 32000,
+        "rate": 2192.35,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 31001,
+        "maxcoverage": 32000,
+        "rate": 2704.29,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 31001,
+        "maxcoverage": 32000,
+        "rate": 3534.85,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 31001,
+        "maxcoverage": 32000,
+        "rate": 4804.58,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 32001,
+        "maxcoverage": 33000,
+        "rate": 851.92,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 32001,
+        "maxcoverage": 33000,
+        "rate": 1324.91,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 32001,
+        "maxcoverage": 33000,
+        "rate": 1788.55,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 32001,
+        "maxcoverage": 33000,
+        "rate": 2249.1,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 32001,
+        "maxcoverage": 33000,
+        "rate": 2774.34,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 32001,
+        "maxcoverage": 33000,
+        "rate": 3625.76,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 32001,
+        "maxcoverage": 33000,
+        "rate": 4928.42,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 33001,
+        "maxcoverage": 34000,
+        "rate": 873.53,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 33001,
+        "maxcoverage": 34000,
+        "rate": 1358.61,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 33001,
+        "maxcoverage": 34000,
+        "rate": 1833.99,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 33001,
+        "maxcoverage": 34000,
+        "rate": 2305.85,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 33001,
+        "maxcoverage": 34000,
+        "rate": 2844.4,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 33001,
+        "maxcoverage": 34000,
+        "rate": 3716.67,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 33001,
+        "maxcoverage": 34000,
+        "rate": 5052.26,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 34001,
+        "maxcoverage": 35000,
+        "rate": 895.14,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 34001,
+        "maxcoverage": 35000,
+        "rate": 1392.31,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 34001,
+        "maxcoverage": 35000,
+        "rate": 1879.44,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 34001,
+        "maxcoverage": 35000,
+        "rate": 2362.6,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 34001,
+        "maxcoverage": 35000,
+        "rate": 2914.46,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 34001,
+        "maxcoverage": 35000,
+        "rate": 3807.59,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 34001,
+        "maxcoverage": 35000,
+        "rate": 5176.1,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 35001,
+        "maxcoverage": 36000,
+        "rate": 916.76,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 35001,
+        "maxcoverage": 36000,
+        "rate": 1426.01,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 35001,
+        "maxcoverage": 36000,
+        "rate": 1924.88,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 35001,
+        "maxcoverage": 36000,
+        "rate": 2419.35,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 35001,
+        "maxcoverage": 36000,
+        "rate": 2984.51,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 35001,
+        "maxcoverage": 36000,
+        "rate": 3898.5,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 35001,
+        "maxcoverage": 36000,
+        "rate": 5299.94,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 36001,
+        "maxcoverage": 37000,
+        "rate": 938.37,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 36001,
+        "maxcoverage": 37000,
+        "rate": 1459.71,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 36001,
+        "maxcoverage": 37000,
+        "rate": 1970.32,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 36001,
+        "maxcoverage": 37000,
+        "rate": 2476.1,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 36001,
+        "maxcoverage": 37000,
+        "rate": 3054.57,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 36001,
+        "maxcoverage": 37000,
+        "rate": 3989.41,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 36001,
+        "maxcoverage": 37000,
+        "rate": 5423.78,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 37001,
+        "maxcoverage": 38000,
+        "rate": 959.98,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 37001,
+        "maxcoverage": 38000,
+        "rate": 1493.41,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 37001,
+        "maxcoverage": 38000,
+        "rate": 2015.76,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 37001,
+        "maxcoverage": 38000,
+        "rate": 2532.85,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 37001,
+        "maxcoverage": 38000,
+        "rate": 3124.63,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 37001,
+        "maxcoverage": 38000,
+        "rate": 4080.33,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 37001,
+        "maxcoverage": 38000,
+        "rate": 5547.62,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 38001,
+        "maxcoverage": 39000,
+        "rate": 981.59,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 38001,
+        "maxcoverage": 39000,
+        "rate": 1527.11,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 38001,
+        "maxcoverage": 39000,
+        "rate": 2061.21,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 38001,
+        "maxcoverage": 39000,
+        "rate": 2589.6,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 38001,
+        "maxcoverage": 39000,
+        "rate": 3194.68,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 38001,
+        "maxcoverage": 39000,
+        "rate": 4171.24,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 38001,
+        "maxcoverage": 39000,
+        "rate": 5671.46,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 39001,
+        "maxcoverage": 40000,
+        "rate": 1003.2,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 39001,
+        "maxcoverage": 40000,
+        "rate": 1560.81,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 39001,
+        "maxcoverage": 40000,
+        "rate": 2106.65,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 39001,
+        "maxcoverage": 40000,
+        "rate": 3646.35,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 39001,
+        "maxcoverage": 40000,
+        "rate": 3264.73,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 39001,
+        "maxcoverage": 40000,
+        "rate": 4262.15,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 39001,
+        "maxcoverage": 40000,
+        "rate": 5795.3,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 40001,
+        "maxcoverage": 41000,
+        "rate": 1024.81,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 40001,
+        "maxcoverage": 41000,
+        "rate": 1594.51,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 40001,
+        "maxcoverage": 41000,
+        "rate": 5125.09,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 40001,
+        "maxcoverage": 41000,
+        "rate": 2703.1,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 40001,
+        "maxcoverage": 41000,
+        "rate": 3334.8,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 40001,
+        "maxcoverage": 41000,
+        "rate": 4353.07,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 40001,
+        "maxcoverage": 41000,
+        "rate": 5919.14,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 41001,
+        "maxcoverage": 42000,
+        "rate": 1046.41,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 41001,
+        "maxcoverage": 42000,
+        "rate": 1628.21,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 41001,
+        "maxcoverage": 42000,
+        "rate": 2197.54,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 41001,
+        "maxcoverage": 42000,
+        "rate": 2759.85,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 41001,
+        "maxcoverage": 42000,
+        "rate": 3404.86,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 41001,
+        "maxcoverage": 42000,
+        "rate": 4443.98,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 41001,
+        "maxcoverage": 42000,
+        "rate": 6042.98,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 42001,
+        "maxcoverage": 43000,
+        "rate": 1068.04,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 42001,
+        "maxcoverage": 43000,
+        "rate": 1661.91,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 42001,
+        "maxcoverage": 43000,
+        "rate": 2242.98,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 42001,
+        "maxcoverage": 43000,
+        "rate": 2816.6,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 42001,
+        "maxcoverage": 43000,
+        "rate": 3474.91,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 42001,
+        "maxcoverage": 43000,
+        "rate": 4534.89,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 42001,
+        "maxcoverage": 43000,
+        "rate": 6166.82,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 43001,
+        "maxcoverage": 44000,
+        "rate": 1089.65,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 43001,
+        "maxcoverage": 44000,
+        "rate": 1695.6,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 43001,
+        "maxcoverage": 44000,
+        "rate": 2288.42,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 43001,
+        "maxcoverage": 44000,
+        "rate": 2873.35,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 43001,
+        "maxcoverage": 44000,
+        "rate": 3544.97,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 43001,
+        "maxcoverage": 44000,
+        "rate": 4625.81,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 43001,
+        "maxcoverage": 44000,
+        "rate": 6290.66,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 44001,
+        "maxcoverage": 45000,
+        "rate": 1111.26,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 44001,
+        "maxcoverage": 45000,
+        "rate": 1729.3,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 44001,
+        "maxcoverage": 45000,
+        "rate": 2333.87,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 44001,
+        "maxcoverage": 45000,
+        "rate": 2930.1,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 44001,
+        "maxcoverage": 45000,
+        "rate": 3615.03,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 44001,
+        "maxcoverage": 45000,
+        "rate": 4716.72,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 44001,
+        "maxcoverage": 45000,
+        "rate": 6414.5,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 45001,
+        "maxcoverage": 46000,
+        "rate": 1132.87,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 45001,
+        "maxcoverage": 46000,
+        "rate": 1763,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 45001,
+        "maxcoverage": 46000,
+        "rate": 2379.31,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 45001,
+        "maxcoverage": 46000,
+        "rate": 2986.85,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 45001,
+        "maxcoverage": 46000,
+        "rate": 3685.08,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 45001,
+        "maxcoverage": 46000,
+        "rate": 4807.63,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 45001,
+        "maxcoverage": 46000,
+        "rate": 6538.34,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 46001,
+        "maxcoverage": 47000,
+        "rate": 1154.48,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 46001,
+        "maxcoverage": 47000,
+        "rate": 1796.7,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 46001,
+        "maxcoverage": 47000,
+        "rate": 2424.75,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 46001,
+        "maxcoverage": 47000,
+        "rate": 3043.6,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 46001,
+        "maxcoverage": 47000,
+        "rate": 3755.14,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 46001,
+        "maxcoverage": 47000,
+        "rate": 4898.54,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 46001,
+        "maxcoverage": 47000,
+        "rate": 6662.18,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 47001,
+        "maxcoverage": 48000,
+        "rate": 1176.09,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 47001,
+        "maxcoverage": 48000,
+        "rate": 1830.4,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 47001,
+        "maxcoverage": 48000,
+        "rate": 2470.19,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 47001,
+        "maxcoverage": 48000,
+        "rate": 3100.35,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 47001,
+        "maxcoverage": 48000,
+        "rate": 3825.19,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 47001,
+        "maxcoverage": 48000,
+        "rate": 4989.46,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 47001,
+        "maxcoverage": 48000,
+        "rate": 6786.02,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 48001,
+        "maxcoverage": 49000,
+        "rate": 1197.71,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 48001,
+        "maxcoverage": 49000,
+        "rate": 1864.1,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 48001,
+        "maxcoverage": 49000,
+        "rate": 2515.64,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 48001,
+        "maxcoverage": 49000,
+        "rate": 3157.1,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 48001,
+        "maxcoverage": 49000,
+        "rate": 3895.25,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 48001,
+        "maxcoverage": 49000,
+        "rate": 5080.37,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 48001,
+        "maxcoverage": 49000,
+        "rate": 6909.86,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 49001,
+        "maxcoverage": 50000,
+        "rate": 1219.32,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 49001,
+        "maxcoverage": 50000,
+        "rate": 1897.8,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 49001,
+        "maxcoverage": 50000,
+        "rate": 2561.08,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 49001,
+        "maxcoverage": 50000,
+        "rate": 3213.85,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 49001,
+        "maxcoverage": 50000,
+        "rate": 3965.31,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 49001,
+        "maxcoverage": 50000,
+        "rate": 5171.28,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 49001,
+        "maxcoverage": 50000,
+        "rate": 7033.7,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 50001,
+        "maxcoverage": 51000,
+        "rate": 1240.93,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 50001,
+        "maxcoverage": 51000,
+        "rate": 1931.5,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 50001,
+        "maxcoverage": 51000,
+        "rate": 2606.52,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 50001,
+        "maxcoverage": 51000,
+        "rate": 3270.6,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 50001,
+        "maxcoverage": 51000,
+        "rate": 4035.37,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 50001,
+        "maxcoverage": 51000,
+        "rate": 5262.2,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 50001,
+        "maxcoverage": 51000,
+        "rate": 7157.54,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 51001,
+        "maxcoverage": 52000,
+        "rate": 1262.54,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 51001,
+        "maxcoverage": 52000,
+        "rate": 1965.2,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 51001,
+        "maxcoverage": 52000,
+        "rate": 2651.97,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 51001,
+        "maxcoverage": 52000,
+        "rate": 3327.35,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 51001,
+        "maxcoverage": 52000,
+        "rate": 4105.42,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 51001,
+        "maxcoverage": 52000,
+        "rate": 353.11,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 51001,
+        "maxcoverage": 52000,
+        "rate": 7281.38,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 52001,
+        "maxcoverage": 53000,
+        "rate": 1284.15,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 52001,
+        "maxcoverage": 53000,
+        "rate": 1998.9,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 52001,
+        "maxcoverage": 53000,
+        "rate": 2697.41,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 52001,
+        "maxcoverage": 53000,
+        "rate": 3384.1,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 52001,
+        "maxcoverage": 53000,
+        "rate": 4175.48,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 52001,
+        "maxcoverage": 53000,
+        "rate": 5444.02,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 52001,
+        "maxcoverage": 53000,
+        "rate": 7405.22,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 53001,
+        "maxcoverage": 54000,
+        "rate": 1305.76,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 53001,
+        "maxcoverage": 54000,
+        "rate": 2032.6,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 53001,
+        "maxcoverage": 54000,
+        "rate": 2742.85,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 53001,
+        "maxcoverage": 54000,
+        "rate": 3440.85,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 53001,
+        "maxcoverage": 54000,
+        "rate": 4245.54,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 53001,
+        "maxcoverage": 54000,
+        "rate": 5534.94,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 53001,
+        "maxcoverage": 54000,
+        "rate": 7529.06,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 54001,
+        "maxcoverage": 55000,
+        "rate": 1327.38,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 54001,
+        "maxcoverage": 55000,
+        "rate": 2066.3,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 54001,
+        "maxcoverage": 55000,
+        "rate": 2788.29,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 54001,
+        "maxcoverage": 55000,
+        "rate": 3497.6,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 54001,
+        "maxcoverage": 55000,
+        "rate": 4315.59,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 54001,
+        "maxcoverage": 55000,
+        "rate": 5625.85,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 54001,
+        "maxcoverage": 55000,
+        "rate": 7652.9,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 55001,
+        "maxcoverage": 56000,
+        "rate": 1348.99,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 55001,
+        "maxcoverage": 56000,
+        "rate": 2100,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 55001,
+        "maxcoverage": 56000,
+        "rate": 2833.74,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 55001,
+        "maxcoverage": 56000,
+        "rate": 3554.35,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 55001,
+        "maxcoverage": 56000,
+        "rate": 4385.65,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 55001,
+        "maxcoverage": 56000,
+        "rate": 5716.76,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 55001,
+        "maxcoverage": 56000,
+        "rate": 7776.74,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 56001,
+        "maxcoverage": 57000,
+        "rate": 1370.6,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 56001,
+        "maxcoverage": 57000,
+        "rate": 2133.7,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 56001,
+        "maxcoverage": 57000,
+        "rate": 2879.18,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 56001,
+        "maxcoverage": 57000,
+        "rate": 3611.1,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 56001,
+        "maxcoverage": 57000,
+        "rate": 4455.71,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 56001,
+        "maxcoverage": 57000,
+        "rate": 5807.68,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 56001,
+        "maxcoverage": 57000,
+        "rate": 7900.58,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 57001,
+        "maxcoverage": 58000,
+        "rate": 1392.21,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 57001,
+        "maxcoverage": 58000,
+        "rate": 2167.4,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 57001,
+        "maxcoverage": 58000,
+        "rate": 2924.62,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 57001,
+        "maxcoverage": 58000,
+        "rate": 3667.85,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 57001,
+        "maxcoverage": 58000,
+        "rate": 4525.77,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 57001,
+        "maxcoverage": 58000,
+        "rate": 5898.59,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 57001,
+        "maxcoverage": 58000,
+        "rate": 8024.42,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 58001,
+        "maxcoverage": 59000,
+        "rate": 1413.82,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 58001,
+        "maxcoverage": 59000,
+        "rate": 2201.1,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 58001,
+        "maxcoverage": 59000,
+        "rate": 2970.07,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 58001,
+        "maxcoverage": 59000,
+        "rate": 3724.6,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 58001,
+        "maxcoverage": 59000,
+        "rate": 4595.82,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 58001,
+        "maxcoverage": 59000,
+        "rate": 5989.5,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 58001,
+        "maxcoverage": 59000,
+        "rate": 8148.26,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 59001,
+        "maxcoverage": 60000,
+        "rate": 1435.43,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 59001,
+        "maxcoverage": 60000,
+        "rate": 2234.8,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 59001,
+        "maxcoverage": 60000,
+        "rate": 3015.51,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 59001,
+        "maxcoverage": 60000,
+        "rate": 3781.35,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 59001,
+        "maxcoverage": 60000,
+        "rate": 4665.88,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 59001,
+        "maxcoverage": 60000,
+        "rate": 6080.42,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 59001,
+        "maxcoverage": 60000,
+        "rate": 8272.1,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 60001,
+        "maxcoverage": 61000,
+        "rate": 1457.04,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 60001,
+        "maxcoverage": 61000,
+        "rate": 2268.5,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 60001,
+        "maxcoverage": 61000,
+        "rate": 3060.95,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 60001,
+        "maxcoverage": 61000,
+        "rate": 3838.1,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 60001,
+        "maxcoverage": 61000,
+        "rate": 4735.94,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 60001,
+        "maxcoverage": 61000,
+        "rate": 6171.33,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 60001,
+        "maxcoverage": 61000,
+        "rate": 8395.94,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 61001,
+        "maxcoverage": 62000,
+        "rate": 1478.66,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 61001,
+        "maxcoverage": 62000,
+        "rate": 2302.19,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 61001,
+        "maxcoverage": 62000,
+        "rate": 3106.4,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 61001,
+        "maxcoverage": 62000,
+        "rate": 3894.85,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 61001,
+        "maxcoverage": 62000,
+        "rate": 4805.99,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 61001,
+        "maxcoverage": 62000,
+        "rate": 6262.24,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 61001,
+        "maxcoverage": 62000,
+        "rate": 8519.78,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 62001,
+        "maxcoverage": 63000,
+        "rate": 1500.27,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 62001,
+        "maxcoverage": 63000,
+        "rate": 2335.89,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 62001,
+        "maxcoverage": 63000,
+        "rate": 3151.84,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 62001,
+        "maxcoverage": 63000,
+        "rate": 3951.6,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 62001,
+        "maxcoverage": 63000,
+        "rate": 4876.05,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 62001,
+        "maxcoverage": 63000,
+        "rate": 6353.15,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 62001,
+        "maxcoverage": 63000,
+        "rate": 8643.62,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 63001,
+        "maxcoverage": 64000,
+        "rate": 1521.88,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 63001,
+        "maxcoverage": 64000,
+        "rate": 2369.59,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 63001,
+        "maxcoverage": 64000,
+        "rate": 3197.28,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 63001,
+        "maxcoverage": 64000,
+        "rate": 4008.35,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 63001,
+        "maxcoverage": 64000,
+        "rate": 4946.11,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 63001,
+        "maxcoverage": 64000,
+        "rate": 6444.07,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 63001,
+        "maxcoverage": 64000,
+        "rate": 8767.46,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 64001,
+        "maxcoverage": 65000,
+        "rate": 1543.49,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 64001,
+        "maxcoverage": 65000,
+        "rate": 2403.29,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 64001,
+        "maxcoverage": 65000,
+        "rate": 3242.72,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 64001,
+        "maxcoverage": 65000,
+        "rate": 4065.1,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 64001,
+        "maxcoverage": 65000,
+        "rate": 5016.16,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 64001,
+        "maxcoverage": 65000,
+        "rate": 6534.98,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 64001,
+        "maxcoverage": 65000,
+        "rate": 8891.3,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 65001,
+        "maxcoverage": 66000,
+        "rate": 1565.1,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 65001,
+        "maxcoverage": 66000,
+        "rate": 2436.99,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 65001,
+        "maxcoverage": 66000,
+        "rate": 3288.17,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 65001,
+        "maxcoverage": 66000,
+        "rate": 4121.85,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 65001,
+        "maxcoverage": 66000,
+        "rate": 5086.22,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 65001,
+        "maxcoverage": 66000,
+        "rate": 6625.89,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 65001,
+        "maxcoverage": 66000,
+        "rate": 9015.14,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 66001,
+        "maxcoverage": 67000,
+        "rate": 1586.71,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 66001,
+        "maxcoverage": 67000,
+        "rate": 2470.69,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 66001,
+        "maxcoverage": 67000,
+        "rate": 3333.61,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 66001,
+        "maxcoverage": 67000,
+        "rate": 4178.6,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 66001,
+        "maxcoverage": 67000,
+        "rate": 5156.28,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 66001,
+        "maxcoverage": 67000,
+        "rate": 6716.81,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 66001,
+        "maxcoverage": 67000,
+        "rate": 9138.98,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 67001,
+        "maxcoverage": 68000,
+        "rate": 1608.33,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 67001,
+        "maxcoverage": 68000,
+        "rate": 2504.39,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 67001,
+        "maxcoverage": 68000,
+        "rate": 3379.05,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 67001,
+        "maxcoverage": 68000,
+        "rate": 4235.35,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 67001,
+        "maxcoverage": 68000,
+        "rate": 5226.33,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 67001,
+        "maxcoverage": 68000,
+        "rate": 6807.72,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 67001,
+        "maxcoverage": 68000,
+        "rate": 9262.82,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 68001,
+        "maxcoverage": 69000,
+        "rate": 1629.94,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 68001,
+        "maxcoverage": 69000,
+        "rate": 2538.09,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 68001,
+        "maxcoverage": 69000,
+        "rate": 3424.5,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 68001,
+        "maxcoverage": 69000,
+        "rate": 4292.1,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 68001,
+        "maxcoverage": 69000,
+        "rate": 5296.39,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 68001,
+        "maxcoverage": 69000,
+        "rate": 6898.63,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 68001,
+        "maxcoverage": 69000,
+        "rate": 9386.66,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 69001,
+        "maxcoverage": 70000,
+        "rate": 1651.55,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 69001,
+        "maxcoverage": 70000,
+        "rate": 2571.79,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 69001,
+        "maxcoverage": 70000,
+        "rate": 3469.94,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 69001,
+        "maxcoverage": 70000,
+        "rate": 4348.85,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 69001,
+        "maxcoverage": 70000,
+        "rate": 5366.45,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 69001,
+        "maxcoverage": 70000,
+        "rate": 6989.55,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 69001,
+        "maxcoverage": 70000,
+        "rate": 9510.5,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 70001,
+        "maxcoverage": 71000,
+        "rate": 1673.16,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 70001,
+        "maxcoverage": 71000,
+        "rate": 2605.49,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 70001,
+        "maxcoverage": 71000,
+        "rate": 3515.38,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 70001,
+        "maxcoverage": 71000,
+        "rate": 4405.6,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 70001,
+        "maxcoverage": 71000,
+        "rate": 5436.5,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 70001,
+        "maxcoverage": 71000,
+        "rate": 7080.46,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 70001,
+        "maxcoverage": 71000,
+        "rate": 9634.34,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 71001,
+        "maxcoverage": 72000,
+        "rate": 1694.77,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 71001,
+        "maxcoverage": 72000,
+        "rate": 2639.19,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 71001,
+        "maxcoverage": 72000,
+        "rate": 3560.82,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 71001,
+        "maxcoverage": 72000,
+        "rate": 4462.35,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 71001,
+        "maxcoverage": 72000,
+        "rate": 5506.56,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 71001,
+        "maxcoverage": 72000,
+        "rate": 7171.37,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 71001,
+        "maxcoverage": 72000,
+        "rate": 9758.18,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 72001,
+        "maxcoverage": 73000,
+        "rate": 1716.38,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 72001,
+        "maxcoverage": 73000,
+        "rate": 2672.89,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 72001,
+        "maxcoverage": 73000,
+        "rate": 3606.27,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 72001,
+        "maxcoverage": 73000,
+        "rate": 4519.1,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 72001,
+        "maxcoverage": 73000,
+        "rate": 5576.62,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 72001,
+        "maxcoverage": 73000,
+        "rate": 7262.29,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 72001,
+        "maxcoverage": 73000,
+        "rate": 9882.02,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 73001,
+        "maxcoverage": 74000,
+        "rate": 1737.99,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 73001,
+        "maxcoverage": 74000,
+        "rate": 2706.59,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 73001,
+        "maxcoverage": 74000,
+        "rate": 3651.71,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 73001,
+        "maxcoverage": 74000,
+        "rate": 4575.84,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 73001,
+        "maxcoverage": 74000,
+        "rate": 5646.68,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 73001,
+        "maxcoverage": 74000,
+        "rate": 7353.2,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 73001,
+        "maxcoverage": 74000,
+        "rate": 10005.86,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 74001,
+        "maxcoverage": 75000,
+        "rate": 1759.61,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 74001,
+        "maxcoverage": 75000,
+        "rate": 2740.29,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 74001,
+        "maxcoverage": 75000,
+        "rate": 3697.15,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 74001,
+        "maxcoverage": 75000,
+        "rate": 4632.59,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 74001,
+        "maxcoverage": 75000,
+        "rate": 5716.73,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 74001,
+        "maxcoverage": 75000,
+        "rate": 7444.11,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 74001,
+        "maxcoverage": 75000,
+        "rate": 10129.7,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 75001,
+        "maxcoverage": 76000,
+        "rate": 1781.22,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 75001,
+        "maxcoverage": 76000,
+        "rate": 2773.99,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 75001,
+        "maxcoverage": 76000,
+        "rate": 3742.6,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 75001,
+        "maxcoverage": 76000,
+        "rate": 4689.34,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 75001,
+        "maxcoverage": 76000,
+        "rate": 5786.79,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 75001,
+        "maxcoverage": 76000,
+        "rate": 7535.03,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 75001,
+        "maxcoverage": 76000,
+        "rate": 10253.54,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 76001,
+        "maxcoverage": 77000,
+        "rate": 1802.83,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 76001,
+        "maxcoverage": 77000,
+        "rate": 2807.69,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 76001,
+        "maxcoverage": 77000,
+        "rate": 3788.04,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 76001,
+        "maxcoverage": 77000,
+        "rate": 4746.09,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 76001,
+        "maxcoverage": 77000,
+        "rate": 5856.85,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 76001,
+        "maxcoverage": 77000,
+        "rate": 7625.94,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 76001,
+        "maxcoverage": 77000,
+        "rate": 10377.38,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 77001,
+        "maxcoverage": 78000,
+        "rate": 1824.44,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 77001,
+        "maxcoverage": 78000,
+        "rate": 2841.39,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 77001,
+        "maxcoverage": 78000,
+        "rate": 3833.48,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 77001,
+        "maxcoverage": 78000,
+        "rate": 4802.84,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 77001,
+        "maxcoverage": 78000,
+        "rate": 5926.9,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 77001,
+        "maxcoverage": 78000,
+        "rate": 7716.85,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 77001,
+        "maxcoverage": 78000,
+        "rate": 10501.22,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 78001,
+        "maxcoverage": 79000,
+        "rate": 1846.05,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 78001,
+        "maxcoverage": 79000,
+        "rate": 2875.09,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 78001,
+        "maxcoverage": 79000,
+        "rate": 3878.93,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 78001,
+        "maxcoverage": 79000,
+        "rate": 4859.59,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 78001,
+        "maxcoverage": 79000,
+        "rate": 5996.96,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 78001,
+        "maxcoverage": 79000,
+        "rate": 7807.76,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 78001,
+        "maxcoverage": 79000,
+        "rate": 10625.06,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 79001,
+        "maxcoverage": 80000,
+        "rate": 1867.66,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 79001,
+        "maxcoverage": 80000,
+        "rate": 2908.78,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 79001,
+        "maxcoverage": 80000,
+        "rate": 3925.37,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 79001,
+        "maxcoverage": 80000,
+        "rate": 4916.34,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 79001,
+        "maxcoverage": 80000,
+        "rate": 6067.02,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 79001,
+        "maxcoverage": 80000,
+        "rate": 7898.68,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 79001,
+        "maxcoverage": 80000,
+        "rate": 10748.9,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 80001,
+        "maxcoverage": 81000,
+        "rate": 1889.28,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 80001,
+        "maxcoverage": 81000,
+        "rate": 2942.48,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 80001,
+        "maxcoverage": 81000,
+        "rate": 3969.81,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 80001,
+        "maxcoverage": 81000,
+        "rate": 4973.09,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 80001,
+        "maxcoverage": 81000,
+        "rate": 6137.07,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 80001,
+        "maxcoverage": 81000,
+        "rate": 7989.59,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 80001,
+        "maxcoverage": 81000,
+        "rate": 10872.74,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 81001,
+        "maxcoverage": 82000,
+        "rate": 1910.89,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 81001,
+        "maxcoverage": 82000,
+        "rate": 2976.18,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 81001,
+        "maxcoverage": 82000,
+        "rate": 4015.25,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 81001,
+        "maxcoverage": 82000,
+        "rate": 5029.84,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 81001,
+        "maxcoverage": 82000,
+        "rate": 6207.13,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 81001,
+        "maxcoverage": 82000,
+        "rate": 8080.5,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 81001,
+        "maxcoverage": 82000,
+        "rate": 10996.58,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 82001,
+        "maxcoverage": 83000,
+        "rate": 1932.5,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 82001,
+        "maxcoverage": 83000,
+        "rate": 3009.88,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 82001,
+        "maxcoverage": 83000,
+        "rate": 4060.7,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 82001,
+        "maxcoverage": 83000,
+        "rate": 5086.59,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 82001,
+        "maxcoverage": 83000,
+        "rate": 6277.19,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 82001,
+        "maxcoverage": 83000,
+        "rate": 8171.42,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 82001,
+        "maxcoverage": 83000,
+        "rate": 11120.42,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 83001,
+        "maxcoverage": 84000,
+        "rate": 1954.11,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 83001,
+        "maxcoverage": 84000,
+        "rate": 3043.58,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 83001,
+        "maxcoverage": 84000,
+        "rate": 4106.14,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 83001,
+        "maxcoverage": 84000,
+        "rate": 5143.34,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 83001,
+        "maxcoverage": 84000,
+        "rate": 6347.24,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 83001,
+        "maxcoverage": 84000,
+        "rate": 8262.33,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 83001,
+        "maxcoverage": 84000,
+        "rate": 11244.26,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 84001,
+        "maxcoverage": 85000,
+        "rate": 1975.72,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 84001,
+        "maxcoverage": 85000,
+        "rate": 3077.28,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 84001,
+        "maxcoverage": 85000,
+        "rate": 4151.58,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 84001,
+        "maxcoverage": 85000,
+        "rate": 5200.09,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 84001,
+        "maxcoverage": 85000,
+        "rate": 6417.3,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 84001,
+        "maxcoverage": 85000,
+        "rate": 8353.24,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 84001,
+        "maxcoverage": 85000,
+        "rate": 11368.1,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 85001,
+        "maxcoverage": 86000,
+        "rate": 1997.33,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 85001,
+        "maxcoverage": 86000,
+        "rate": 3110.98,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 85001,
+        "maxcoverage": 86000,
+        "rate": 4197.03,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 85001,
+        "maxcoverage": 86000,
+        "rate": 5256.84,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 85001,
+        "maxcoverage": 86000,
+        "rate": 6487.36,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 85001,
+        "maxcoverage": 86000,
+        "rate": 8444.16,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 85001,
+        "maxcoverage": 86000,
+        "rate": 11491.94,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 86001,
+        "maxcoverage": 87000,
+        "rate": 2018.95,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 86001,
+        "maxcoverage": 87000,
+        "rate": 3144.68,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 86001,
+        "maxcoverage": 87000,
+        "rate": 4242.47,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 86001,
+        "maxcoverage": 87000,
+        "rate": 5313.59,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 86001,
+        "maxcoverage": 87000,
+        "rate": 6557.41,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 86001,
+        "maxcoverage": 87000,
+        "rate": 8535.07,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 86001,
+        "maxcoverage": 87000,
+        "rate": 11615.78,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 87001,
+        "maxcoverage": 88000,
+        "rate": 2040.56,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 87001,
+        "maxcoverage": 88000,
+        "rate": 3178.38,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 87001,
+        "maxcoverage": 88000,
+        "rate": 4287.91,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 87001,
+        "maxcoverage": 88000,
+        "rate": 5370.34,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 87001,
+        "maxcoverage": 88000,
+        "rate": 6627.47,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 87001,
+        "maxcoverage": 88000,
+        "rate": 8625.98,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 87001,
+        "maxcoverage": 88000,
+        "rate": 11739.62,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 88001,
+        "maxcoverage": 89000,
+        "rate": 2062.17,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 88001,
+        "maxcoverage": 89000,
+        "rate": 3212.08,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 88001,
+        "maxcoverage": 89000,
+        "rate": 4333.35,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 88001,
+        "maxcoverage": 89000,
+        "rate": 5427.09,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 88001,
+        "maxcoverage": 89000,
+        "rate": 6697.53,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 88001,
+        "maxcoverage": 89000,
+        "rate": 8716.9,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 88001,
+        "maxcoverage": 89000,
+        "rate": 11863.46,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 89001,
+        "maxcoverage": 90000,
+        "rate": 2083.78,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 89001,
+        "maxcoverage": 90000,
+        "rate": 3245.78,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 89001,
+        "maxcoverage": 90000,
+        "rate": 4378.8,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 89001,
+        "maxcoverage": 90000,
+        "rate": 5483.84,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 89001,
+        "maxcoverage": 90000,
+        "rate": 6767.59,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 89001,
+        "maxcoverage": 90000,
+        "rate": 8807.81,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 89001,
+        "maxcoverage": 90000,
+        "rate": 11987.3,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 90001,
+        "maxcoverage": 91000,
+        "rate": 2105.39,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 90001,
+        "maxcoverage": 91000,
+        "rate": 32789.48,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 90001,
+        "maxcoverage": 91000,
+        "rate": 4424.24,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 90001,
+        "maxcoverage": 91000,
+        "rate": 5540.59,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 90001,
+        "maxcoverage": 91000,
+        "rate": 6837.64,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 90001,
+        "maxcoverage": 91000,
+        "rate": 8898.72,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 90001,
+        "maxcoverage": 91000,
+        "rate": 12111.14,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 91001,
+        "maxcoverage": 92000,
+        "rate": 2127,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 91001,
+        "maxcoverage": 92000,
+        "rate": 3313.18,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 91001,
+        "maxcoverage": 92000,
+        "rate": 4469.68,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 91001,
+        "maxcoverage": 92000,
+        "rate": 5597.33,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 91001,
+        "maxcoverage": 92000,
+        "rate": 6907.7,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 91001,
+        "maxcoverage": 92000,
+        "rate": 8989.64,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 91001,
+        "maxcoverage": 92000,
+        "rate": 12234.98,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 92001,
+        "maxcoverage": 93000,
+        "rate": 2148.61,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 92001,
+        "maxcoverage": 93000,
+        "rate": 3346.88,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 92001,
+        "maxcoverage": 93000,
+        "rate": 4515.13,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 92001,
+        "maxcoverage": 93000,
+        "rate": 5654.09,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 92001,
+        "maxcoverage": 93000,
+        "rate": 6977.76,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 92001,
+        "maxcoverage": 93000,
+        "rate": 9080.55,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 92001,
+        "maxcoverage": 93000,
+        "rate": 12358.82,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 93001,
+        "maxcoverage": 94000,
+        "rate": 2170.23,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 93001,
+        "maxcoverage": 94000,
+        "rate": 3380.58,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 93001,
+        "maxcoverage": 94000,
+        "rate": 4560.57,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 93001,
+        "maxcoverage": 94000,
+        "rate": 5710.84,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 93001,
+        "maxcoverage": 94000,
+        "rate": 7047.81,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 93001,
+        "maxcoverage": 94000,
+        "rate": 9171.46,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 93001,
+        "maxcoverage": 94000,
+        "rate": 12482.66,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 94001,
+        "maxcoverage": 95000,
+        "rate": 2191.84,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 94001,
+        "maxcoverage": 95000,
+        "rate": 3414.28,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 94001,
+        "maxcoverage": 95000,
+        "rate": 4606.01,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 94001,
+        "maxcoverage": 95000,
+        "rate": 5767.59,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 94001,
+        "maxcoverage": 95000,
+        "rate": 7117.87,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 94001,
+        "maxcoverage": 95000,
+        "rate": 9262.37,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 94001,
+        "maxcoverage": 95000,
+        "rate": 12606.5,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 95001,
+        "maxcoverage": 96000,
+        "rate": 2213.45,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 95001,
+        "maxcoverage": 96000,
+        "rate": 3447.98,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 95001,
+        "maxcoverage": 96000,
+        "rate": 4651.46,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 95001,
+        "maxcoverage": 96000,
+        "rate": 5824.34,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 95001,
+        "maxcoverage": 96000,
+        "rate": 7187.93,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 95001,
+        "maxcoverage": 96000,
+        "rate": 9353.29,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 95001,
+        "maxcoverage": 96000,
+        "rate": 12730.34,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 96001,
+        "maxcoverage": 97000,
+        "rate": 2235.06,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 96001,
+        "maxcoverage": 97000,
+        "rate": 3481.68,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 96001,
+        "maxcoverage": 97000,
+        "rate": 4696.9,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 96001,
+        "maxcoverage": 97000,
+        "rate": 5881.09,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 96001,
+        "maxcoverage": 97000,
+        "rate": 7257.98,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 96001,
+        "maxcoverage": 97000,
+        "rate": 9444.2,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 96001,
+        "maxcoverage": 97000,
+        "rate": 12854.18,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 97001,
+        "maxcoverage": 98000,
+        "rate": 2256.67,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 97001,
+        "maxcoverage": 98000,
+        "rate": 3515.37,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 97001,
+        "maxcoverage": 98000,
+        "rate": 4742.34,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 97001,
+        "maxcoverage": 98000,
+        "rate": 5937.84,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 97001,
+        "maxcoverage": 98000,
+        "rate": 7328.04,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 97001,
+        "maxcoverage": 98000,
+        "rate": 9535.11,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 97001,
+        "maxcoverage": 98000,
+        "rate": 12979,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 98001,
+        "maxcoverage": 99000,
+        "rate": 2278.28,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 98001,
+        "maxcoverage": 99000,
+        "rate": 3549.07,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 98001,
+        "maxcoverage": 99000,
+        "rate": 4787.78,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 98001,
+        "maxcoverage": 99000,
+        "rate": 5994.59,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 98001,
+        "maxcoverage": 99000,
+        "rate": 7398.1,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 98001,
+        "maxcoverage": 99000,
+        "rate": 9626.03,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 98001,
+        "maxcoverage": 99000,
+        "rate": 13101.85,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 99001,
+        "maxcoverage": 100000,
+        "rate": 2299.9,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 99001,
+        "maxcoverage": 100000,
+        "rate": 3582.77,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 99001,
+        "maxcoverage": 100000,
+        "rate": 4833.23,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 99001,
+        "maxcoverage": 100000,
+        "rate": 6051.34,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 99001,
+        "maxcoverage": 100000,
+        "rate": 7468.15,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 99001,
+        "maxcoverage": 100000,
+        "rate": 9716.94,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 99001,
+        "maxcoverage": 100000,
+        "rate": 13225.69,
+        "ratetype": "B"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 3.26,
+        "ratetype": "N"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 4.01,
+        "ratetype": "N"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 5.62,
+        "ratetype": "N"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 9.72,
+        "ratetype": "N"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 13.21,
+        "ratetype": "N"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 17.38,
+        "ratetype": "N"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 25.36,
+        "ratetype": "N"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 255,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 9,
+        "ratetype": "F"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 255,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 9,
+        "ratetype": "R"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 255,
+        "mincoverage": 100000,
+        "maxcoverage": 100000,
+        "rate": 9,
+        "ratetype": "D"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 255,
+        "mincoverage": 200000,
+        "maxcoverage": 200000,
+        "rate": 18,
+        "ratetype": "D"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 255,
+        "mincoverage": 300000,
+        "maxcoverage": 300000,
+        "rate": 27,
+        "ratetype": "D"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 255,
+        "mincoverage": 400000,
+        "maxcoverage": 400000,
+        "rate": 36,
+        "ratetype": "D"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 255,
+        "mincoverage": 500000,
+        "maxcoverage": 500000,
+        "rate": 45,
+        "ratetype": "D"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 11.66,
+        "ratetype": "H"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 13.92,
+        "ratetype": "H"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 21.17,
+        "ratetype": "H"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 22,
+        "ratetype": "H"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 33.8,
+        "ratetype": "H"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 41.85,
+        "ratetype": "H"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 42.5,
+        "ratetype": "H"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 255,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 0.4,
+        "ratetype": "J"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 0,
+        "maxage": 34,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 4.86,
+        "ratetype": "A"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 35,
+        "maxage": 59,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 5.84,
+        "ratetype": "A"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 60,
+        "maxage": 69,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 8.73,
+        "ratetype": "A"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 70,
+        "maxage": 74,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 10.01,
+        "ratetype": "A"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 75,
+        "maxage": 79,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 15.31,
+        "ratetype": "A"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 80,
+        "maxage": 84,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 19.29,
+        "ratetype": "A"
+    },
+    {
+        "lineid": "bh_exact",
+        "minage": 85,
+        "maxage": 255,
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "rate": 22.1,
+        "ratetype": "A"
+    }
+]
