@@ -1,0 +1,1262 @@
+[
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 0,
+        "maxcoverage": 500,
+        "minage": 0,
+        "maxage": 35,
+        "ratetype": "B",
+        "rate": 31
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 0,
+        "maxcoverage": 500,
+        "minage": 36,
+        "maxage": 55,
+        "ratetype": "B",
+        "rate": 42
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 0,
+        "maxcoverage": 500,
+        "minage": 56,
+        "maxage": 65,
+        "ratetype": "B",
+        "rate": 53
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 0,
+        "maxcoverage": 500,
+        "minage": 66,
+        "maxage": 75,
+        "ratetype": "B",
+        "rate": 62
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 0,
+        "maxcoverage": 500,
+        "minage": 76,
+        "maxage": 80,
+        "ratetype": "B",
+        "rate": 82
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 0,
+        "maxcoverage": 500,
+        "minage": 81,
+        "maxage": 120,
+        "ratetype": "B",
+        "rate": 112
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "minage": 0,
+        "maxage": 35,
+        "ratetype": "B",
+        "rate": 46
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "minage": 36,
+        "maxage": 55,
+        "ratetype": "B",
+        "rate": 56
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "minage": 56,
+        "maxage": 65,
+        "ratetype": "B",
+        "rate": 69
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "minage": 66,
+        "maxage": 75,
+        "ratetype": "B",
+        "rate": 114
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "minage": 76,
+        "maxage": 80,
+        "ratetype": "B",
+        "rate": 132
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 501,
+        "maxcoverage": 1000,
+        "minage": 81,
+        "maxage": 120,
+        "ratetype": "B",
+        "rate": 161
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "minage": 0,
+        "maxage": 35,
+        "ratetype": "B",
+        "rate": 64
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "minage": 36,
+        "maxage": 55,
+        "ratetype": "B",
+        "rate": 84
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "minage": 56,
+        "maxage": 65,
+        "ratetype": "B",
+        "rate": 110
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "minage": 66,
+        "maxage": 75,
+        "ratetype": "B",
+        "rate": 164
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "minage": 76,
+        "maxage": 80,
+        "ratetype": "B",
+        "rate": 198
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 1001,
+        "maxcoverage": 1500,
+        "minage": 81,
+        "maxage": 120,
+        "ratetype": "B",
+        "rate": 241
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "minage": 0,
+        "maxage": 35,
+        "ratetype": "B",
+        "rate": 86
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "minage": 36,
+        "maxage": 55,
+        "ratetype": "B",
+        "rate": 103
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "minage": 56,
+        "maxage": 65,
+        "ratetype": "B",
+        "rate": 148
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "minage": 66,
+        "maxage": 75,
+        "ratetype": "B",
+        "rate": 228
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "minage": 76,
+        "maxage": 80,
+        "ratetype": "B",
+        "rate": 270
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 1501,
+        "maxcoverage": 2000,
+        "minage": 81,
+        "maxage": 120,
+        "ratetype": "B",
+        "rate": 324
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "minage": 0,
+        "maxage": 35,
+        "ratetype": "B",
+        "rate": 113
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "minage": 36,
+        "maxage": 55,
+        "ratetype": "B",
+        "rate": 129
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "minage": 56,
+        "maxage": 65,
+        "ratetype": "B",
+        "rate": 189
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "minage": 66,
+        "maxage": 75,
+        "ratetype": "B",
+        "rate": 279
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "minage": 76,
+        "maxage": 80,
+        "ratetype": "B",
+        "rate": 339
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 2001,
+        "maxcoverage": 2500,
+        "minage": 81,
+        "maxage": 120,
+        "ratetype": "B",
+        "rate": 404
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "minage": 0,
+        "maxage": 35,
+        "ratetype": "B",
+        "rate": 128
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "minage": 36,
+        "maxage": 55,
+        "ratetype": "B",
+        "rate": 162
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "minage": 56,
+        "maxage": 65,
+        "ratetype": "B",
+        "rate": 230
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "minage": 66,
+        "maxage": 75,
+        "ratetype": "B",
+        "rate": 342
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "minage": 76,
+        "maxage": 80,
+        "ratetype": "B",
+        "rate": 407
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 2501,
+        "maxcoverage": 3000,
+        "minage": 81,
+        "maxage": 120,
+        "ratetype": "B",
+        "rate": 503
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "minage": 0,
+        "maxage": 35,
+        "ratetype": "B",
+        "rate": 159
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "minage": 36,
+        "maxage": 55,
+        "ratetype": "B",
+        "rate": 186
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "minage": 56,
+        "maxage": 65,
+        "ratetype": "B",
+        "rate": 271
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "minage": 66,
+        "maxage": 75,
+        "ratetype": "B",
+        "rate": 383
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "minage": 76,
+        "maxage": 80,
+        "ratetype": "B",
+        "rate": 474
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 3001,
+        "maxcoverage": 3500,
+        "minage": 81,
+        "maxage": 120,
+        "ratetype": "B",
+        "rate": 587
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "minage": 0,
+        "maxage": 35,
+        "ratetype": "B",
+        "rate": 179
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "minage": 36,
+        "maxage": 55,
+        "ratetype": "B",
+        "rate": 211
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "minage": 56,
+        "maxage": 65,
+        "ratetype": "B",
+        "rate": 314
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "minage": 66,
+        "maxage": 75,
+        "ratetype": "B",
+        "rate": 433
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "minage": 76,
+        "maxage": 80,
+        "ratetype": "B",
+        "rate": 544
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 3501,
+        "maxcoverage": 4000,
+        "minage": 81,
+        "maxage": 120,
+        "ratetype": "B",
+        "rate": 675
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "minage": 0,
+        "maxage": 35,
+        "ratetype": "B",
+        "rate": 204
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "minage": 36,
+        "maxage": 55,
+        "ratetype": "B",
+        "rate": 238
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "minage": 56,
+        "maxage": 65,
+        "ratetype": "B",
+        "rate": 353
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "minage": 66,
+        "maxage": 75,
+        "ratetype": "B",
+        "rate": 482
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "minage": 76,
+        "maxage": 80,
+        "ratetype": "B",
+        "rate": 611
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 4001,
+        "maxcoverage": 4500,
+        "minage": 81,
+        "maxage": 120,
+        "ratetype": "B",
+        "rate": 761
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "minage": 0,
+        "maxage": 35,
+        "ratetype": "B",
+        "rate": 223
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "minage": 36,
+        "maxage": 55,
+        "ratetype": "B",
+        "rate": 266
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "minage": 56,
+        "maxage": 65,
+        "ratetype": "B",
+        "rate": 392
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "minage": 66,
+        "maxage": 75,
+        "ratetype": "B",
+        "rate": 545
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "minage": 76,
+        "maxage": 80,
+        "ratetype": "B",
+        "rate": 679
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 4501,
+        "maxcoverage": 5000,
+        "minage": 81,
+        "maxage": 120,
+        "ratetype": "B",
+        "rate": 849
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "minage": 0,
+        "maxage": 35,
+        "ratetype": "B",
+        "rate": 249
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "minage": 36,
+        "maxage": 55,
+        "ratetype": "B",
+        "rate": 292
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "minage": 56,
+        "maxage": 65,
+        "ratetype": "B",
+        "rate": 430
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "minage": 66,
+        "maxage": 75,
+        "ratetype": "B",
+        "rate": 593
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "minage": 76,
+        "maxage": 80,
+        "ratetype": "B",
+        "rate": 747
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 5001,
+        "maxcoverage": 5500,
+        "minage": 81,
+        "maxage": 120,
+        "ratetype": "B",
+        "rate": 938
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "minage": 0,
+        "maxage": 35,
+        "ratetype": "B",
+        "rate": 274
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "minage": 36,
+        "maxage": 55,
+        "ratetype": "B",
+        "rate": 313
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "minage": 56,
+        "maxage": 65,
+        "ratetype": "B",
+        "rate": 485
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "minage": 66,
+        "maxage": 75,
+        "ratetype": "B",
+        "rate": 655
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "minage": 76,
+        "maxage": 80,
+        "ratetype": "B",
+        "rate": 815
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 5501,
+        "maxcoverage": 6000,
+        "minage": 81,
+        "maxage": 120,
+        "ratetype": "B",
+        "rate": 1026
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 6001,
+        "maxcoverage": 7000,
+        "minage": 0,
+        "maxage": 35,
+        "ratetype": "B",
+        "rate": 316
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 6001,
+        "maxcoverage": 7000,
+        "minage": 36,
+        "maxage": 55,
+        "ratetype": "B",
+        "rate": 364
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 6001,
+        "maxcoverage": 7000,
+        "minage": 56,
+        "maxage": 65,
+        "ratetype": "B",
+        "rate": 569
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 6001,
+        "maxcoverage": 7000,
+        "minage": 66,
+        "maxage": 75,
+        "ratetype": "B",
+        "rate": 747
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 6001,
+        "maxcoverage": 7000,
+        "minage": 76,
+        "maxage": 80,
+        "ratetype": "B",
+        "rate": 952
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 6001,
+        "maxcoverage": 7000,
+        "minage": 81,
+        "maxage": 120,
+        "ratetype": "B",
+        "rate": 1159
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 7001,
+        "maxcoverage": 8000,
+        "minage": 0,
+        "maxage": 35,
+        "ratetype": "B",
+        "rate": 368
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 7001,
+        "maxcoverage": 8000,
+        "minage": 36,
+        "maxage": 55,
+        "ratetype": "B",
+        "rate": 416
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 7001,
+        "maxcoverage": 8000,
+        "minage": 56,
+        "maxage": 65,
+        "ratetype": "B",
+        "rate": 648
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 7001,
+        "maxcoverage": 8000,
+        "minage": 66,
+        "maxage": 75,
+        "ratetype": "B",
+        "rate": 854
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 7001,
+        "maxcoverage": 8000,
+        "minage": 76,
+        "maxage": 80,
+        "ratetype": "B",
+        "rate": 1087
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 7001,
+        "maxcoverage": 8000,
+        "minage": 81,
+        "maxage": 120,
+        "ratetype": "B",
+        "rate": 1325
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 8001,
+        "maxcoverage": 9000,
+        "minage": 0,
+        "maxage": 35,
+        "ratetype": "B",
+        "rate": 413
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 8001,
+        "maxcoverage": 9000,
+        "minage": 36,
+        "maxage": 55,
+        "ratetype": "B",
+        "rate": 466
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 8001,
+        "maxcoverage": 9000,
+        "minage": 56,
+        "maxage": 65,
+        "ratetype": "B",
+        "rate": 728
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 8001,
+        "maxcoverage": 9000,
+        "minage": 66,
+        "maxage": 75,
+        "ratetype": "B",
+        "rate": 955
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 8001,
+        "maxcoverage": 9000,
+        "minage": 76,
+        "maxage": 80,
+        "ratetype": "B",
+        "rate": 1223
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 8001,
+        "maxcoverage": 9000,
+        "minage": 81,
+        "maxage": 120,
+        "ratetype": "B",
+        "rate": 1547
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 9001,
+        "maxcoverage": 10000,
+        "minage": 0,
+        "maxage": 35,
+        "ratetype": "B",
+        "rate": 458
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 9001,
+        "maxcoverage": 10000,
+        "minage": 36,
+        "maxage": 55,
+        "ratetype": "B",
+        "rate": 518
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 9001,
+        "maxcoverage": 10000,
+        "minage": 56,
+        "maxage": 65,
+        "ratetype": "B",
+        "rate": 812
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 9001,
+        "maxcoverage": 10000,
+        "minage": 66,
+        "maxage": 75,
+        "ratetype": "B",
+        "rate": 1069
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 9001,
+        "maxcoverage": 10000,
+        "minage": 76,
+        "maxage": 80,
+        "ratetype": "B",
+        "rate": 1359
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 9001,
+        "maxcoverage": 10000,
+        "minage": 81,
+        "maxage": 120,
+        "ratetype": "B",
+        "rate": 1657
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 10001,
+        "maxcoverage": 11000,
+        "minage": 0,
+        "maxage": 35,
+        "ratetype": "B",
+        "rate": 509
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 10001,
+        "maxcoverage": 11000,
+        "minage": 36,
+        "maxage": 55,
+        "ratetype": "B",
+        "rate": 764
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 10001,
+        "maxcoverage": 11000,
+        "minage": 56,
+        "maxage": 65,
+        "ratetype": "B",
+        "rate": 1049
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 10001,
+        "maxcoverage": 11000,
+        "minage": 66,
+        "maxage": 75,
+        "ratetype": "B",
+        "rate": 1299
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 10001,
+        "maxcoverage": 11000,
+        "minage": 76,
+        "maxage": 80,
+        "ratetype": "B",
+        "rate": 1502
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 10001,
+        "maxcoverage": 11000,
+        "minage": 81,
+        "maxage": 120,
+        "ratetype": "B",
+        "rate": 1989
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 11001,
+        "maxcoverage": 12000,
+        "minage": 0,
+        "maxage": 35,
+        "ratetype": "B",
+        "rate": 560
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 11001,
+        "maxcoverage": 12000,
+        "minage": 36,
+        "maxage": 55,
+        "ratetype": "B",
+        "rate": 830
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 11001,
+        "maxcoverage": 12000,
+        "minage": 56,
+        "maxage": 65,
+        "ratetype": "B",
+        "rate": 1146
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 11001,
+        "maxcoverage": 12000,
+        "minage": 66,
+        "maxage": 75,
+        "ratetype": "B",
+        "rate": 1427
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 11001,
+        "maxcoverage": 12000,
+        "minage": 76,
+        "maxage": 80,
+        "ratetype": "B",
+        "rate": 1639
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 11001,
+        "maxcoverage": 12000,
+        "minage": 81,
+        "maxage": 120,
+        "ratetype": "B",
+        "rate": 2320
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 12001,
+        "maxcoverage": 13000,
+        "minage": 0,
+        "maxage": 35,
+        "ratetype": "B",
+        "rate": 611
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 12001,
+        "maxcoverage": 13000,
+        "minage": 36,
+        "maxage": 55,
+        "ratetype": "B",
+        "rate": 896
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 12001,
+        "maxcoverage": 13000,
+        "minage": 56,
+        "maxage": 65,
+        "ratetype": "B",
+        "rate": 1239
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 12001,
+        "maxcoverage": 13000,
+        "minage": 66,
+        "maxage": 75,
+        "ratetype": "B",
+        "rate": 1539
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 12001,
+        "maxcoverage": 13000,
+        "minage": 76,
+        "maxage": 80,
+        "ratetype": "B",
+        "rate": 1889
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 12001,
+        "maxcoverage": 13000,
+        "minage": 81,
+        "maxage": 120,
+        "ratetype": "B",
+        "rate": 2541
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 13001,
+        "maxcoverage": 14000,
+        "minage": 0,
+        "maxage": 35,
+        "ratetype": "B",
+        "rate": 661
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 13001,
+        "maxcoverage": 14000,
+        "minage": 36,
+        "maxage": 55,
+        "ratetype": "B",
+        "rate": 963
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 13001,
+        "maxcoverage": 14000,
+        "minage": 56,
+        "maxage": 65,
+        "ratetype": "B",
+        "rate": 1332
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 13001,
+        "maxcoverage": 14000,
+        "minage": 66,
+        "maxage": 75,
+        "ratetype": "B",
+        "rate": 1657
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 13001,
+        "maxcoverage": 14000,
+        "minage": 76,
+        "maxage": 80,
+        "ratetype": "B",
+        "rate": 2026
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 13001,
+        "maxcoverage": 14000,
+        "minage": 81,
+        "maxage": 120,
+        "ratetype": "B",
+        "rate": 2707
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 14001,
+        "maxcoverage": 15000,
+        "minage": 0,
+        "maxage": 35,
+        "ratetype": "B",
+        "rate": 712
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 14001,
+        "maxcoverage": 15000,
+        "minage": 36,
+        "maxage": 55,
+        "ratetype": "B",
+        "rate": 1029
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 14001,
+        "maxcoverage": 15000,
+        "minage": 56,
+        "maxage": 65,
+        "ratetype": "B",
+        "rate": 1424
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 14001,
+        "maxcoverage": 15000,
+        "minage": 66,
+        "maxage": 75,
+        "ratetype": "B",
+        "rate": 1785
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 14001,
+        "maxcoverage": 15000,
+        "minage": 76,
+        "maxage": 80,
+        "ratetype": "B",
+        "rate": 2163
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 14001,
+        "maxcoverage": 15000,
+        "minage": 81,
+        "maxage": 120,
+        "ratetype": "B",
+        "rate": 2873
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 15001,
+        "maxcoverage": 100000,
+        "minage": 0,
+        "maxage": 35,
+        "ratetype": "C",
+        "rate": 0.0653
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 15001,
+        "maxcoverage": 100000,
+        "minage": 36,
+        "maxage": 55,
+        "ratetype": "C",
+        "rate": 0.0879
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 15001,
+        "maxcoverage": 100000,
+        "minage": 56,
+        "maxage": 65,
+        "ratetype": "C",
+        "rate": 0.1105
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 15001,
+        "maxcoverage": 100000,
+        "minage": 66,
+        "maxage": 75,
+        "ratetype": "C",
+        "rate": 0.1558
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 15001,
+        "maxcoverage": 100000,
+        "minage": 76,
+        "maxage": 80,
+        "ratetype": "C",
+        "rate": 0.1784
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 15001,
+        "maxcoverage": 100000,
+        "minage": 81,
+        "maxage": 120,
+        "ratetype": "C",
+        "rate": 0
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "minage": 0,
+        "maxage": 120,
+        "ratetype": "F",
+        "rate": 8
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "minage": 0,
+        "maxage": 120,
+        "ratetype": "N",
+        "rate": 15
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "minage": 0,
+        "maxage": 120,
+        "ratetype": "S",
+        "rate": 25
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "minage": 0,
+        "maxage": 120,
+        "ratetype": "A",
+        "rate": 6
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 100000,
+        "maxcoverage": 100000,
+        "minage": 0,
+        "maxage": 120,
+        "ratetype": "D",
+        "rate": 10
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 250000,
+        "maxcoverage": 250000,
+        "minage": 0,
+        "maxage": 120,
+        "ratetype": "D",
+        "rate": 25
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 500000,
+        "maxcoverage": 500000,
+        "minage": 0,
+        "maxage": 120,
+        "ratetype": "D",
+        "rate": 50
+    },
+    {
+        "lineid": "mhros_bdg",
+        "mincoverage": 0,
+        "maxcoverage": 0,
+        "minage": 0,
+        "maxage": 120,
+        "ratetype": "R",
+        "rate": 7
+    }
+]
