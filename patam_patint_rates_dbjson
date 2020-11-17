@@ -1,0 +1,1062 @@
+[
+    {
+        "lineid": "patam",
+        "optionnum": 1,
+        "maxcoverage": "NULL",
+        "type": "Extreme Sport",
+        "minage": 0,
+        "maxage": 255,
+        "monthprem": 0.2,
+        "dailyrate": "NULL"
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 1,
+        "maxcoverage": "NULL",
+        "type": "Leisure Sport",
+        "minage": 0,
+        "maxage": 255,
+        "monthprem": 0.2,
+        "dailyrate": "NULL"
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 1,
+        "maxcoverage": "NULL",
+        "type": "Online",
+        "minage": "NULL",
+        "maxage": "NULL",
+        "monthprem": 0,
+        "dailyrate": 0
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 1,
+        "maxcoverage": "NULL",
+        "type": "Overnight",
+        "minage": "NULL",
+        "maxage": "NULL",
+        "monthprem": 20,
+        "dailyrate": 20
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 1,
+        "maxcoverage": "NULL",
+        "type": "Return Rider",
+        "minage": 0,
+        "maxage": 255,
+        "monthprem": 0.05,
+        "dailyrate": "NULL"
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 1,
+        "maxcoverage": "NULL",
+        "type": "Standard",
+        "minage": "NULL",
+        "maxage": "NULL",
+        "monthprem": 0,
+        "dailyrate": 0
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 1,
+        "maxcoverage": 10000,
+        "type": "Base",
+        "minage": 80,
+        "maxage": 255,
+        "monthprem": 381,
+        "dailyrate": 12.75
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 1,
+        "maxcoverage": 50000,
+        "type": "Dependent Child",
+        "minage": 0,
+        "maxage": 17,
+        "monthprem": 34,
+        "dailyrate": 1.15
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 1,
+        "maxcoverage": 50000,
+        "type": "Base",
+        "minage": 0,
+        "maxage": 17,
+        "monthprem": 37,
+        "dailyrate": 1.25
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 1,
+        "maxcoverage": 50000,
+        "type": "Base",
+        "minage": 18,
+        "maxage": 29,
+        "monthprem": 37,
+        "dailyrate": 1.25
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 1,
+        "maxcoverage": 50000,
+        "type": "Base",
+        "minage": 30,
+        "maxage": 39,
+        "monthprem": 49,
+        "dailyrate": 1.65
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 1,
+        "maxcoverage": 50000,
+        "type": "Base",
+        "minage": 40,
+        "maxage": 49,
+        "monthprem": 73,
+        "dailyrate": 2.45
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 1,
+        "maxcoverage": 50000,
+        "type": "Base",
+        "minage": 50,
+        "maxage": 59,
+        "monthprem": 107,
+        "dailyrate": 3.6
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 1,
+        "maxcoverage": 50000,
+        "type": "Base",
+        "minage": 60,
+        "maxage": 64,
+        "monthprem": 135,
+        "dailyrate": 4.5
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 1,
+        "maxcoverage": 50000,
+        "type": "Base",
+        "minage": 65,
+        "maxage": 69,
+        "monthprem": 154,
+        "dailyrate": 5.15
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 1,
+        "maxcoverage": 50000,
+        "type": "Base",
+        "minage": 70,
+        "maxage": 79,
+        "monthprem": 208,
+        "dailyrate": 6.95
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 1,
+        "maxcoverage": 100000,
+        "type": "ADD",
+        "minage": 0,
+        "maxage": 255,
+        "monthprem": 8,
+        "dailyrate": 0
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 2,
+        "maxcoverage": 100000,
+        "type": "Dependent Child",
+        "minage": 0,
+        "maxage": 17,
+        "monthprem": 41,
+        "dailyrate": 1.4
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 2,
+        "maxcoverage": 100000,
+        "type": "Base",
+        "minage": 0,
+        "maxage": 17,
+        "monthprem": 46,
+        "dailyrate": 1.55
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 2,
+        "maxcoverage": 100000,
+        "type": "Base",
+        "minage": 18,
+        "maxage": 29,
+        "monthprem": 46,
+        "dailyrate": 1.55
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 2,
+        "maxcoverage": 100000,
+        "type": "Base",
+        "minage": 30,
+        "maxage": 39,
+        "monthprem": 62,
+        "dailyrate": 2.1
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 2,
+        "maxcoverage": 100000,
+        "type": "Base",
+        "minage": 40,
+        "maxage": 49,
+        "monthprem": 90,
+        "dailyrate": 3
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 2,
+        "maxcoverage": 100000,
+        "type": "Base",
+        "minage": 50,
+        "maxage": 59,
+        "monthprem": 138,
+        "dailyrate": 4.6
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 2,
+        "maxcoverage": 100000,
+        "type": "Base",
+        "minage": 60,
+        "maxage": 64,
+        "monthprem": 174,
+        "dailyrate": 5.85
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 2,
+        "maxcoverage": 100000,
+        "type": "Base",
+        "minage": 65,
+        "maxage": 69,
+        "monthprem": 208,
+        "dailyrate": 7
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 2,
+        "maxcoverage": 100000,
+        "type": "Base",
+        "minage": 70,
+        "maxage": 79,
+        "monthprem": 0,
+        "dailyrate": 0
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 2,
+        "maxcoverage": 100000,
+        "type": "Base",
+        "minage": 80,
+        "maxage": 255,
+        "monthprem": 0,
+        "dailyrate": 0
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 1,
+        "maxcoverage": 200000,
+        "type": "ADD",
+        "minage": 0,
+        "maxage": 255,
+        "monthprem": 16,
+        "dailyrate": 0
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 1,
+        "maxcoverage": 300000,
+        "type": "ADD",
+        "minage": 0,
+        "maxage": 255,
+        "monthprem": 24,
+        "dailyrate": 0
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 1,
+        "maxcoverage": 400000,
+        "type": "ADD",
+        "minage": 0,
+        "maxage": 255,
+        "monthprem": 32,
+        "dailyrate": 0
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 3,
+        "maxcoverage": 500000,
+        "type": "Dependent Child",
+        "minage": 0,
+        "maxage": 17,
+        "monthprem": 53,
+        "dailyrate": 1.8
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 3,
+        "maxcoverage": 500000,
+        "type": "Base",
+        "minage": 0,
+        "maxage": 17,
+        "monthprem": 59,
+        "dailyrate": 2
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 3,
+        "maxcoverage": 500000,
+        "type": "Base",
+        "minage": 18,
+        "maxage": 29,
+        "monthprem": 59,
+        "dailyrate": 2
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 3,
+        "maxcoverage": 500000,
+        "type": "Base",
+        "minage": 30,
+        "maxage": 39,
+        "monthprem": 78,
+        "dailyrate": 2.6
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 3,
+        "maxcoverage": 500000,
+        "type": "Base",
+        "minage": 40,
+        "maxage": 49,
+        "monthprem": 119,
+        "dailyrate": 4
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 3,
+        "maxcoverage": 500000,
+        "type": "Base",
+        "minage": 50,
+        "maxage": 59,
+        "monthprem": 169,
+        "dailyrate": 5.65
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 3,
+        "maxcoverage": 500000,
+        "type": "Base",
+        "minage": 60,
+        "maxage": 64,
+        "monthprem": 207,
+        "dailyrate": 6.95
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 3,
+        "maxcoverage": 500000,
+        "type": "Base",
+        "minage": 65,
+        "maxage": 69,
+        "monthprem": 226,
+        "dailyrate": 7.06
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 3,
+        "maxcoverage": 500000,
+        "type": "Base",
+        "minage": 70,
+        "maxage": 79,
+        "monthprem": 0,
+        "dailyrate": 0
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 3,
+        "maxcoverage": 500000,
+        "type": "Base",
+        "minage": 80,
+        "maxage": 255,
+        "monthprem": 0,
+        "dailyrate": 0
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 4,
+        "maxcoverage": 1000000,
+        "type": "Dependent Child",
+        "minage": 0,
+        "maxage": 17,
+        "monthprem": 59,
+        "dailyrate": 2
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 4,
+        "maxcoverage": 1000000,
+        "type": "Base",
+        "minage": 0,
+        "maxage": 17,
+        "monthprem": 66,
+        "dailyrate": 2.25
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 4,
+        "maxcoverage": 1000000,
+        "type": "Base",
+        "minage": 18,
+        "maxage": 29,
+        "monthprem": 71,
+        "dailyrate": 2.4
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 4,
+        "maxcoverage": 1000000,
+        "type": "Base",
+        "minage": 30,
+        "maxage": 39,
+        "monthprem": 91,
+        "dailyrate": 3.05
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 4,
+        "maxcoverage": 1000000,
+        "type": "Base",
+        "minage": 40,
+        "maxage": 49,
+        "monthprem": 133,
+        "dailyrate": 4.45
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 4,
+        "maxcoverage": 1000000,
+        "type": "Base",
+        "minage": 50,
+        "maxage": 59,
+        "monthprem": 194,
+        "dailyrate": 6.5
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 4,
+        "maxcoverage": 1000000,
+        "type": "Base",
+        "minage": 60,
+        "maxage": 64,
+        "monthprem": 248,
+        "dailyrate": 8.35
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 4,
+        "maxcoverage": 1000000,
+        "type": "Base",
+        "minage": 65,
+        "maxage": 69,
+        "monthprem": 270,
+        "dailyrate": 9.05
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 4,
+        "maxcoverage": 1000000,
+        "type": "Base",
+        "minage": 70,
+        "maxage": 79,
+        "monthprem": 0,
+        "dailyrate": 0
+    },
+    {
+        "lineid": "patam",
+        "optionnum": 4,
+        "maxcoverage": 1000000,
+        "type": "Base",
+        "minage": 80,
+        "maxage": 255,
+        "monthprem": 0,
+        "dailyrate": 0
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 5,
+        "maxcoverage": 0,
+        "type": "Extreme Sport",
+        "minage": 0,
+        "maxage": 255,
+        "monthprem": 0.2,
+        "dailyrate": 0
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 5,
+        "maxcoverage": 0,
+        "type": "Return Rider",
+        "minage": 0,
+        "maxage": 255,
+        "monthprem": 0.05,
+        "dailyrate": 0
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 5,
+        "maxcoverage": 10000,
+        "type": "Base",
+        "minage": 80,
+        "maxage": 255,
+        "monthprem": 340,
+        "dailyrate": 11.35
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 5,
+        "maxcoverage": 50000,
+        "type": "Base",
+        "minage": 0,
+        "maxage": 17,
+        "monthprem": 23,
+        "dailyrate": 0.8
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 5,
+        "maxcoverage": 50000,
+        "type": "Base",
+        "minage": 18,
+        "maxage": 29,
+        "monthprem": 23,
+        "dailyrate": 0.8
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 5,
+        "maxcoverage": 50000,
+        "type": "Base",
+        "minage": 30,
+        "maxage": 39,
+        "monthprem": 28,
+        "dailyrate": 0.95
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 5,
+        "maxcoverage": 50000,
+        "type": "Base",
+        "minage": 40,
+        "maxage": 49,
+        "monthprem": 50,
+        "dailyrate": 1.7
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 5,
+        "maxcoverage": 50000,
+        "type": "Base",
+        "minage": 50,
+        "maxage": 59,
+        "monthprem": 81,
+        "dailyrate": 2.7
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 5,
+        "maxcoverage": 50000,
+        "type": "Base",
+        "minage": 60,
+        "maxage": 64,
+        "monthprem": 98,
+        "dailyrate": 3.25
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 5,
+        "maxcoverage": 50000,
+        "type": "Base",
+        "minage": 65,
+        "maxage": 69,
+        "monthprem": 116,
+        "dailyrate": 3.9
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 5,
+        "maxcoverage": 50000,
+        "type": "Base",
+        "minage": 70,
+        "maxage": 79,
+        "monthprem": 170,
+        "dailyrate": 5.7
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 5,
+        "maxcoverage": 50000,
+        "type": "Dependent Child",
+        "minage": 0,
+        "maxage": 17,
+        "monthprem": 21,
+        "dailyrate": 0.7
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 5,
+        "maxcoverage": 100000,
+        "type": "ADD",
+        "minage": 0,
+        "maxage": 255,
+        "monthprem": 8,
+        "dailyrate": 0
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 6,
+        "maxcoverage": 100000,
+        "type": "Base",
+        "minage": 0,
+        "maxage": 17,
+        "monthprem": 28,
+        "dailyrate": 0.95
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 6,
+        "maxcoverage": 100000,
+        "type": "Base",
+        "minage": 18,
+        "maxage": 29,
+        "monthprem": 28,
+        "dailyrate": 0.95
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 6,
+        "maxcoverage": 100000,
+        "type": "Base",
+        "minage": 30,
+        "maxage": 39,
+        "monthprem": 33,
+        "dailyrate": 1.1
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 6,
+        "maxcoverage": 100000,
+        "type": "Base",
+        "minage": 40,
+        "maxage": 49,
+        "monthprem": 54,
+        "dailyrate": 1.8
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 6,
+        "maxcoverage": 100000,
+        "type": "Base",
+        "minage": 50,
+        "maxage": 59,
+        "monthprem": 92,
+        "dailyrate": 3.1
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 6,
+        "maxcoverage": 100000,
+        "type": "Base",
+        "minage": 60,
+        "maxage": 64,
+        "monthprem": 116,
+        "dailyrate": 3.9
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 6,
+        "maxcoverage": 100000,
+        "type": "Base",
+        "minage": 65,
+        "maxage": 69,
+        "monthprem": 124,
+        "dailyrate": 4.15
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 6,
+        "maxcoverage": 100000,
+        "type": "Base",
+        "minage": 70,
+        "maxage": 79,
+        "monthprem": 0,
+        "dailyrate": 0
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 6,
+        "maxcoverage": 100000,
+        "type": "Base",
+        "minage": 80,
+        "maxage": 255,
+        "monthprem": 0,
+        "dailyrate": 0
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 6,
+        "maxcoverage": 100000,
+        "type": "Dependent Child",
+        "minage": 0,
+        "maxage": 17,
+        "monthprem": 25,
+        "dailyrate": 0.85
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 5,
+        "maxcoverage": 200000,
+        "type": "ADD",
+        "minage": 0,
+        "maxage": 255,
+        "monthprem": 16,
+        "dailyrate": 0
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 5,
+        "maxcoverage": 300000,
+        "type": "ADD",
+        "minage": 0,
+        "maxage": 255,
+        "monthprem": 24,
+        "dailyrate": 0
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 5,
+        "maxcoverage": 400000,
+        "type": "ADD",
+        "minage": 0,
+        "maxage": 255,
+        "monthprem": 32,
+        "dailyrate": 0
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 7,
+        "maxcoverage": 500000,
+        "type": "Base",
+        "minage": 0,
+        "maxage": 17,
+        "monthprem": 33,
+        "dailyrate": 1.1
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 7,
+        "maxcoverage": 500000,
+        "type": "Base",
+        "minage": 18,
+        "maxage": 29,
+        "monthprem": 33,
+        "dailyrate": 1.1
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 7,
+        "maxcoverage": 500000,
+        "type": "Base",
+        "minage": 30,
+        "maxage": 39,
+        "monthprem": 44,
+        "dailyrate": 1.5
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 7,
+        "maxcoverage": 500000,
+        "type": "Base",
+        "minage": 40,
+        "maxage": 49,
+        "monthprem": 61,
+        "dailyrate": 2.05
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 7,
+        "maxcoverage": 500000,
+        "type": "Base",
+        "minage": 50,
+        "maxage": 59,
+        "monthprem": 103,
+        "dailyrate": 3.45
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 7,
+        "maxcoverage": 500000,
+        "type": "Base",
+        "minage": 60,
+        "maxage": 64,
+        "monthprem": 138,
+        "dailyrate": 4.6
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 7,
+        "maxcoverage": 500000,
+        "type": "Base",
+        "minage": 65,
+        "maxage": 69,
+        "monthprem": 158,
+        "dailyrate": 4.8
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 7,
+        "maxcoverage": 500000,
+        "type": "Base",
+        "minage": 70,
+        "maxage": 79,
+        "monthprem": 0,
+        "dailyrate": 0
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 7,
+        "maxcoverage": 500000,
+        "type": "Base",
+        "minage": 80,
+        "maxage": 255,
+        "monthprem": 0,
+        "dailyrate": 0
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 7,
+        "maxcoverage": 500000,
+        "type": "Dependent Child",
+        "minage": 0,
+        "maxage": 17,
+        "monthprem": 30,
+        "dailyrate": 1
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 8,
+        "maxcoverage": 1000000,
+        "type": "Base",
+        "minage": 0,
+        "maxage": 17,
+        "monthprem": 38,
+        "dailyrate": 1.3
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 8,
+        "maxcoverage": 1000000,
+        "type": "Base",
+        "minage": 18,
+        "maxage": 29,
+        "monthprem": 38,
+        "dailyrate": 1.3
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 8,
+        "maxcoverage": 1000000,
+        "type": "Base",
+        "minage": 30,
+        "maxage": 39,
+        "monthprem": 51,
+        "dailyrate": 1.7
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 8,
+        "maxcoverage": 1000000,
+        "type": "Base",
+        "minage": 40,
+        "maxage": 49,
+        "monthprem": 68,
+        "dailyrate": 2.3
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 8,
+        "maxcoverage": 1000000,
+        "type": "Base",
+        "minage": 50,
+        "maxage": 59,
+        "monthprem": 108,
+        "dailyrate": 3.6
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 8,
+        "maxcoverage": 1000000,
+        "type": "Base",
+        "minage": 60,
+        "maxage": 64,
+        "monthprem": 162,
+        "dailyrate": 5.4
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 8,
+        "maxcoverage": 1000000,
+        "type": "Base",
+        "minage": 65,
+        "maxage": 69,
+        "monthprem": 170,
+        "dailyrate": 5.7
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 8,
+        "maxcoverage": 1000000,
+        "type": "Base",
+        "minage": 70,
+        "maxage": 79,
+        "monthprem": 0,
+        "dailyrate": 0
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 8,
+        "maxcoverage": 1000000,
+        "type": "Base",
+        "minage": 80,
+        "maxage": 255,
+        "monthprem": 0,
+        "dailyrate": 0
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 8,
+        "maxcoverage": 1000000,
+        "type": "Dependent Child",
+        "minage": 0,
+        "maxage": 17,
+        "monthprem": 33,
+        "dailyrate": 1.1
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 9,
+        "maxcoverage": 2000000,
+        "type": "Base",
+        "minage": 0,
+        "maxage": 17,
+        "monthprem": 47,
+        "dailyrate": 1.6
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 9,
+        "maxcoverage": 2000000,
+        "type": "Base",
+        "minage": 18,
+        "maxage": 29,
+        "monthprem": 49,
+        "dailyrate": 1.65
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 9,
+        "maxcoverage": 2000000,
+        "type": "Base",
+        "minage": 30,
+        "maxage": 39,
+        "monthprem": 65,
+        "dailyrate": 2.2
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 9,
+        "maxcoverage": 2000000,
+        "type": "Base",
+        "minage": 40,
+        "maxage": 49,
+        "monthprem": 89,
+        "dailyrate": 3
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 9,
+        "maxcoverage": 2000000,
+        "type": "Base",
+        "minage": 50,
+        "maxage": 59,
+        "monthprem": 138,
+        "dailyrate": 4.6
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 9,
+        "maxcoverage": 2000000,
+        "type": "Base",
+        "minage": 60,
+        "maxage": 64,
+        "monthprem": 181,
+        "dailyrate": 6.05
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 9,
+        "maxcoverage": 2000000,
+        "type": "Base",
+        "minage": 65,
+        "maxage": 69,
+        "monthprem": 219,
+        "dailyrate": 7.3
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 9,
+        "maxcoverage": 2000000,
+        "type": "Base",
+        "minage": 70,
+        "maxage": 79,
+        "monthprem": 0,
+        "dailyrate": 0
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 9,
+        "maxcoverage": 2000000,
+        "type": "Base",
+        "minage": 80,
+        "maxage": 255,
+        "monthprem": 0,
+        "dailyrate": 0
+    },
+    {
+        "lineid": "patint",
+        "optionnum": 9,
+        "maxcoverage": 2000000,
+        "type": "Dependent Child",
+        "minage": 0,
+        "maxage": 17,
+        "monthprem": 37,
+        "dailyrate": 1.25
+    }
+]
